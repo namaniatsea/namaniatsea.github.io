@@ -17,7 +17,7 @@ Approaching The Rock on the way back from Smir (with voice over from Nana):
 Dolphins accompanying Namani in the Strait:
 [%youtube*http://www.youtube.com/watch?v=2iFzhbueStc%v]
 
-And a 360Â° view on our way to Gib (again with Nana voice over):
+And a 360° view on our way to Gib (again with Nana voice over):
 [%youtube*http://www.youtube.com/watch?v=bFbYpmmfUaY%v]
 
 btw... we have now our onboard email via shortwave radio working which means we can post regular position reports from underway - see the new link on the right.
