@@ -1,7 +1,7 @@
 ---
 title: Scallops and sunsets
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Anchored in Peachgrove Bay, Great Mercury Island, New Zealand
 position_lat: -36.633333333300

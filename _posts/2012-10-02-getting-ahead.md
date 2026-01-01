@@ -1,7 +1,7 @@
 ---
 title: Getting ahead
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: en route from Niue to Neiafu, Vava'u Group/Tonga
 position_lat: -18.733666666700

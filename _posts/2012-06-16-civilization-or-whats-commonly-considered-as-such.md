@@ -1,7 +1,7 @@
 ---
 title: Civilization (or what's commonly considered as such...)
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Moored at Marina Taina, Tahiti
 position_lat: -17.586333333300

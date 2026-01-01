@@ -2,7 +2,7 @@
 title: Merry Christmas and Happy New Year / Frohe Weihnachten und ein gutes Neues!
 type: namani_blog_post
 author: NaMaNi
-layout: post
+layout: page
 frontpage: true
 location: Antigua
 position_lat: 16.983333333300

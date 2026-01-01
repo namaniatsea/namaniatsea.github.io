@@ -1,7 +1,7 @@
 ---
 title: Greetings from the Great Pacific Duck Pond
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Becalmed between Minerva Reef and New Zealand
 position_lat: -28.316666666700

@@ -1,7 +1,7 @@
 ---
 title: "Film tip: Between Home"
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Balboa, Panama
 position_lat: 8.458333333300

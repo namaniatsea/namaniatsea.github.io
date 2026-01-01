@@ -2,7 +2,7 @@
 title: Scallops and Chowdah!
 type: namani_blog_post
 author: Spending the South Pacific cyclone season in New Zealand
-layout: post
+layout: page
 frontpage: true
 location: Anchored off Great Mercury Island, en route from Tauranga to the Hauraki Gulf
 position_lat: -36.600000000000

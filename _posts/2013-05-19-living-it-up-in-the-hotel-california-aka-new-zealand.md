@@ -2,7 +2,7 @@
 title: Living It Up in the Hotel California (aka New Zealand)
 type: namani_blog_post
 author: Spending the South Pacific Cyclone Season in New Zealand
-layout: post
+layout: page
 frontpage: true
 location: Opua, Bay of Islands
 position_lat: -35.216666666700

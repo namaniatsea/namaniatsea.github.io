@@ -1,7 +1,7 @@
 ---
 title: Island Tour
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Hiva Oa, Marquesas
 position_lat: -9.816666666700

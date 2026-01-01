@@ -2,7 +2,7 @@
 title: Basket blon titi
 type: namani_blog_post
 author: Cruising in Vanuatu
-layout: post
+layout: page
 frontpage: true
 location: Port Vila, Efate
 position_lat: -17.750000000000

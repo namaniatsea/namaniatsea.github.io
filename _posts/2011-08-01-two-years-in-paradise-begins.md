@@ -1,7 +1,7 @@
 ---
 title: Two years in paradise begins ...
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Yarmouth, Maine
 position_lat: 43.790166666700

@@ -2,7 +2,7 @@
 title: Vive la France!
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Deshaies, Guadeloupe
 position_lat: 16.983333333300

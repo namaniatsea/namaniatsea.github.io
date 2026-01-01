@@ -2,7 +2,7 @@
 title: At the dock again
 type: namani_blog_post
 author: Cruising along the Australian East Coast
-layout: post
+layout: page
 frontpage: true
 location: Redcliffe Marina, Scarborough/Moreton Bay
 position_lat: -27.193333333300

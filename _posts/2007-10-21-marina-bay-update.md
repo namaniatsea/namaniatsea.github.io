@@ -2,7 +2,7 @@
 title: Marina Bay Update
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Gibtaltar
 position_lat: 37.143333333300

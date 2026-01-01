@@ -2,7 +2,7 @@
 title: The last post from aboard Namani (for now)
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Tied up at Yankee Boatyard, Yarmouth, ME
 position_lat: 43.795333333300

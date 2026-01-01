@@ -2,7 +2,7 @@
 title: In Gibraltar - Bye, bye Mediterranean, hello Atlantic!
 type: namani_blog_post
 author: Nana & Markus
-layout: post
+layout: page
 frontpage: true
 location: Gibraltar
 position_lat: 37.143333333300

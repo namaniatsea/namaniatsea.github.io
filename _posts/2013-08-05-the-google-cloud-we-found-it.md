@@ -2,7 +2,7 @@
 title: The Google Cloud - We found it!
 type: namani_blog_post
 author: Cruising in Fiji
-layout: post
+layout: page
 frontpage: true
 location: Anchored off Waya Island
 position_lat: -17.276666666700

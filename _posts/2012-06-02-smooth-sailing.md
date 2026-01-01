@@ -1,7 +1,7 @@
 ---
 title: Smooth sailing...
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: En route between the Marquesas and the Tuamotus
 position_lat: -11.012000000000

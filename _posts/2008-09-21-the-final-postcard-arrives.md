@@ -2,7 +2,7 @@
 title: The final postcard arrives...
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Anguilla and Tarrytown, NY
 position_lat: 43.795333333300

@@ -1,7 +1,7 @@
 ---
 title: Suwarrow - Week 1
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Anchored off Anchor Island, Suwarrow, Cook Islands
 position_lat: -13.248166666700

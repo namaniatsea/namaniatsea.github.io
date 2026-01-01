@@ -2,7 +2,7 @@
 title: Breakfast with Manatee
 type: namani_blog_post
 author: Nana & Markus
-layout: post
+layout: page
 frontpage: true
 location: Puerto del Rey, Puerto Rico
 position_lat: 16.983333333300

@@ -2,7 +2,7 @@
 title: The windvane is up again!
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Newport, Rhode Island
 position_lat: 41.478333333300

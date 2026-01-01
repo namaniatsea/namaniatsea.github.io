@@ -1,7 +1,7 @@
 ---
 title: New photo albums - at last...
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 position_lat: -35.316666666700
 position_lon: 174.133333333300

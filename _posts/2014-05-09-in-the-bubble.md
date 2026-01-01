@@ -2,7 +2,7 @@
 title: In the Bubble
 type: namani_blog_post
 author: Flying home the long way
-layout: post
+layout: page
 frontpage: true
 location: Sydney
 position_lat: -16.918333333300

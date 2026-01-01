@@ -2,7 +2,7 @@
 title: Life at Anchor
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Posted from Portsmouth, Dominica (written in Anse d'Arlet, Martnique, 07.03.2008)
 position_lat: 16.983333333300

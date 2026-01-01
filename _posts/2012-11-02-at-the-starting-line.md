@@ -1,7 +1,7 @@
 ---
 title: At the starting line
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: anchored off
 position_lat: -21.133333333300

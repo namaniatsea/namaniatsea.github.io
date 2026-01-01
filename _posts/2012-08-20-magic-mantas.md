@@ -1,7 +1,7 @@
 ---
 title: Magic Mantas
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Anchored at the NE End of Bora Bora
 position_lat: -16.488666666700

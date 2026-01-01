@@ -2,7 +2,7 @@
 title: Baseball and Fish
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: 31=B025'N 011=B013'W - 200 nm to Puerto Calero on Lanzarote
 position_lat: 31.433333333300

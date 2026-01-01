@@ -1,7 +1,7 @@
 ---
 title: Getting there...
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: 305nm to go to the Galapagos
 position_lat: 1.862666666700

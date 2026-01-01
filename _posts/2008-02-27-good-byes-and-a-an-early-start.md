@@ -2,7 +2,7 @@
 title: Good-byes and a an early start
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: St. Lucia, Anse de Pitons
 position_lat: 16.983333333300

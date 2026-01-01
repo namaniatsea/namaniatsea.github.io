@@ -1,7 +1,7 @@
 ---
 title: Mapping Anchorage Island in the Suwarrow Atoll
 type: nicky_page
-layout: post
+layout: page
 frontpage: true
 image: assets/posts/DSCN1041_v1.jpg
 ---

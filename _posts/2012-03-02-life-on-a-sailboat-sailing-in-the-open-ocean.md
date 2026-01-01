@@ -1,7 +1,7 @@
 ---
 title: "Life on a Sailboat: Sailing in the Open Ocean"
 type: nicky_page
-layout: post
+layout: page
 frontpage: true
 image: assets/posts/nicky_watching_dolphins.JPG
 ---

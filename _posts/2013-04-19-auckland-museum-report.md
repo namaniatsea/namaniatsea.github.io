@@ -1,7 +1,7 @@
 ---
 title: Auckland Museum Report
 type: nicky_page
-layout: post
+layout: page
 frontpage: true
 image: assets/posts/Auckland_museum_(10).JPG
 summary: >

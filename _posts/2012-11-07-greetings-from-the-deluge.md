@@ -1,7 +1,7 @@
 ---
 title: Greetings from the deluge
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Moored in Nuku'alofa Harbour, Tongatapu, Tonga
 position_lat: -21.133333333300

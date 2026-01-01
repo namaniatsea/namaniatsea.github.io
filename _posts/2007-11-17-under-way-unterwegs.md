@@ -2,7 +2,7 @@
 title: Under way / Unterwegs
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: 26d 44m N  014d 57m W - Between the Canaries and Cape Verde Islands
 position_lat: 26.746666666700

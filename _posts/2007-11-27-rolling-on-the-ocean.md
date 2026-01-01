@@ -2,7 +2,7 @@
 title: Rolling on the Ocean
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: 19d 53m N  033d 06m W
 position_lat: 19.881666666700

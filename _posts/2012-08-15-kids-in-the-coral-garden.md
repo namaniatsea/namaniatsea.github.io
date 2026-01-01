@@ -1,7 +1,7 @@
 ---
 title: Kids in the Coral Garden
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Anchored north of Ilot Tautau on the west side of Tahaa
 position_lat: -16.602500000000

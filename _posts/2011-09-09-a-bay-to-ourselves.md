@@ -2,7 +2,7 @@
 title: A Bay to ourselves...
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Seal Bay, Vinal Haven
 position_lat: 44.383333333300

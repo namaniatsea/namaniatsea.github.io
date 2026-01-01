@@ -2,7 +2,7 @@
 title: Neue Bilder / New Pictures
 type: namani_blog_post
 author: NaMaNi
-layout: post
+layout: page
 frontpage: true
 location: Lanzarote
 position_lat: 28.916666666700

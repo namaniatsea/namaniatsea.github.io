@@ -1,7 +1,7 @@
 ---
 title: New Zealand - Month 1
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Docked at Westhaven Marina, Auckland, NZ
 position_lat: -36.836666666700

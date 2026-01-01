@@ -1,7 +1,7 @@
 ---
 title: End of hard time and "Making bubbles"
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Chantier Naval, Raiatea
 position_lat: -16.736166666700

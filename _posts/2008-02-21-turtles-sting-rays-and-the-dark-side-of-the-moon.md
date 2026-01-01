@@ -2,7 +2,7 @@
 title: Turtles, Sting Rays, and the Dark Side of the Moon
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Tobago Cays
 position_lat: 16.983333333300

@@ -2,7 +2,7 @@
 title: Arrival in Cape May - Drenched but happy
 type: namani_blog_post
 author: Nana & Markus
-layout: post
+layout: page
 frontpage: true
 location: Cape May, NJ
 position_lat: 38.950000000000

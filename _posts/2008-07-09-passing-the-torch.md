@@ -2,7 +2,7 @@
 title: Passing the Torch?
 type: namani_blog_post
 author: Nana
-layout: post
+layout: page
 frontpage: true
 location: Moored off Peaks Island
 position_lat: 43.809166666700

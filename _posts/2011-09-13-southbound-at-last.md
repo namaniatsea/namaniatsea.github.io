@@ -2,7 +2,7 @@
 title: Southbound at last!
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Isles of Shoals, NH
 position_lat: 42.978333333300

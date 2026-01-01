@@ -2,7 +2,7 @@
 title: Halfway through
 type: namani_blog_post
 author: Wind NN5@10kn, isolated showers
-layout: post
+layout: page
 frontpage: true
 location: Motoring towards Pedro Miguel Lock
 position_lat: 9.175833333300

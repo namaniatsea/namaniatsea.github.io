@@ -2,7 +2,7 @@
 title: At Anchor at Last!
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: The Gosslings, Casco Bay
 position_lat: 43.790166666700

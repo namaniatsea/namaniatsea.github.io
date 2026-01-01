@@ -2,7 +2,7 @@
 title: Old Habbits...
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Jolly Harbour, Antigua
 position_lat: 16.983333333300

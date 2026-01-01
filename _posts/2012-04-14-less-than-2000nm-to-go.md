@@ -1,7 +1,7 @@
 ---
 title: Less than 2000nm to go...
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Under way to the Marquesas, S08-30 W106-40
 position_lat: -8.500000000000

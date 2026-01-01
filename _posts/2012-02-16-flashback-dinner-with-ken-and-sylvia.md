@@ -1,7 +1,7 @@
 ---
 title: "Flashback: Dinner with Ken and Sylvia"
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Flamenco Island, Panama City
 position_lat: 8.458333333300

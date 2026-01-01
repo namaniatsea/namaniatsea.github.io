@@ -1,7 +1,7 @@
 ---
 title: Making tracks again
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Anchored Urupukapuka Bay, Bay of Islands, New Zealand
 position_lat: -35.216666666700

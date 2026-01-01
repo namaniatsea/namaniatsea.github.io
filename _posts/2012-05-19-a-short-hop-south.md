@@ -1,7 +1,7 @@
 ---
 title: A short hop south
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Anchored off Tahuatu, southern Marquesas
 position_lat: -9.966666666700

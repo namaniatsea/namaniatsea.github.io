@@ -2,7 +2,7 @@
 title: In search of the elusive tradewinds...
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: 23d 05m N  019d 05m W
 position_lat: 23.415000000000

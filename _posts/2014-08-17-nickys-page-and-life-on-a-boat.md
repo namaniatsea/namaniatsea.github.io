@@ -1,7 +1,7 @@
 ---
 title: Nicky's Page and Life on a Boat
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 image: assets/posts/nicky_pic_2.jpg
 ---

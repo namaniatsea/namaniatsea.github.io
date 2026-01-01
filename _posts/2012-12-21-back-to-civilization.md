@@ -1,7 +1,7 @@
 ---
 title: Back to civilization...
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Anchored off Rakino Island, Hauraki Gulf, New Zealand
 position_lat: -36.715000000000

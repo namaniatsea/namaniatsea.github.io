@@ -2,7 +2,7 @@
 title: Canary Videos
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Lanzarote
 position_lat: 28.916666666700

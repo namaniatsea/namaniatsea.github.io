@@ -1,7 +1,7 @@
 ---
 title: "Attention: Low Flying Dolphins"
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Anchored in Kiwiriki Bay, Great Barrier Island, New Zealand
 position_lat: -36.200000000000

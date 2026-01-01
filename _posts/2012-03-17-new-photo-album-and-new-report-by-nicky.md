@@ -1,7 +1,7 @@
 ---
 title: New photo album and new report by Nicky
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 position_lat: -0.896333333300
 position_lon: -89.612000000000

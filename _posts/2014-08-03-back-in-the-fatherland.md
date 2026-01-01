@@ -2,7 +2,7 @@
 title: Back in the Fatherland
 type: namani_blog_post
 author: Flying home the long way
-layout: post
+layout: page
 frontpage: true
 location: Gelting, Germany
 image: assets/posts/DSCN7290.jpg

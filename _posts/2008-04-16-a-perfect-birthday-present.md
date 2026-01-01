@@ -2,7 +2,7 @@
 title: A perfect birthday present...
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: 18d13m N 063d58m W - En route to Puerto Rico
 position_lat: 16.983333333300

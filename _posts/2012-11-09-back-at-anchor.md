@@ -1,7 +1,7 @@
 ---
 title: Back at anchor
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Anchored off Pangaimotu Island, Tongatapu, Tonga
 position_lat: -21.116666666700

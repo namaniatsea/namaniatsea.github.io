@@ -2,7 +2,7 @@
 title: Grenada and the Grenadines
 type: namani_blog_post
 author: Nana
-layout: post
+layout: page
 frontpage: true
 location: Bequia
 position_lat: 16.983333333300

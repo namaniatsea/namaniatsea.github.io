@@ -2,7 +2,7 @@
 title: Theory Meets Reality...
 type: namani_blog_post
 author: Cruising along the Australian East Coast
-layout: post
+layout: page
 frontpage: true
 location: Shoal Bay, Port Stephens
 position_lat: -32.716666666700

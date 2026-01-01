@@ -1,7 +1,7 @@
 ---
 title: New Photos and Album
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Niue
 position_lat: -19.055666666700

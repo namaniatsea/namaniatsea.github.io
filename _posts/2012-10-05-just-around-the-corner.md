@@ -1,7 +1,7 @@
 ---
 title: Just around the corner
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: anchored off Mala Island, Vava'u Group, Tonga
 position_lat: -18.688166666700

@@ -2,7 +2,7 @@
 title: The home stretch...
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: N10-18 W78-36 - 50 nm to go to Panama
 position_lat: 10.300000000000

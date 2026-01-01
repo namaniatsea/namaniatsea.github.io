@@ -2,7 +2,7 @@
 title: En Route to the Aegean
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Aigina / Saronic Gulf
 position_lat: 39.930000000000

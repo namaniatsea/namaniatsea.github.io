@@ -2,7 +2,7 @@
 title: Oncoming Traffic
 type: namani_blog_post
 author: Cruising in Fiji
-layout: post
+layout: page
 frontpage: true
 location: Anchored in the
 position_lat: -16.941666666700

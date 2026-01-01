@@ -1,7 +1,7 @@
 ---
 title: Rolling on the ocean....
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Under way to Suwarrow
 position_lat: -16.225833333300

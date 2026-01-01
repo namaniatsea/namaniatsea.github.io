@@ -2,7 +2,7 @@
 title: Our year on Namani in summary
 type: namani_blog_post
 author: Nana
-layout: post
+layout: page
 frontpage: true
 location: Wolfratshausen, Germany
 position_lat: 43.795333333300

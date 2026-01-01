@@ -1,7 +1,7 @@
 ---
 title: An island to ourselves
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: anchored off Luangahu Island,  Ha'pai Group, Tonga
 position_lat: -19.872166666700

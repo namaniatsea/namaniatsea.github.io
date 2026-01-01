@@ -1,7 +1,7 @@
 ---
 title: Safely arrived in Tonga
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Tied up at the customs dock Neiafu, Vava'u Group/Tonga
 position_lat: -18.652000000000

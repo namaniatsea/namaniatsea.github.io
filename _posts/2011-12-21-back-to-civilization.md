@@ -2,7 +2,7 @@
 title: Back to Civilization
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Portobelo, Panama
 position_lat: 9.555166666700

@@ -1,7 +1,7 @@
 ---
 title: Speeding along
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Under way to Suwarrow
 position_lat: -14.589833333300

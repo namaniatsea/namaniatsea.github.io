@@ -1,7 +1,7 @@
 ---
 title: On the hard
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Scarborough, Queensland
 position_lat: -27.191666666700

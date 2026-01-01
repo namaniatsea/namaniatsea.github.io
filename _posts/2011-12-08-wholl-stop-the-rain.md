@@ -2,7 +2,7 @@
 title: Who'll stop the rain...
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Eastern Lemon Cays, San Blas Islands, Panama
 position_lat: 9.564166666700

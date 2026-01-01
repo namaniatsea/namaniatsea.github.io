@@ -2,7 +2,7 @@
 title: The Tip-Top Restaurant
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: San Antonio, Jamaica (posted from Portobello, Panama)
 position_lat: 9.555166666700

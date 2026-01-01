@@ -2,7 +2,7 @@
 title: South of the Canal
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Onset Bay, MA
 position_lat: 41.736666666700

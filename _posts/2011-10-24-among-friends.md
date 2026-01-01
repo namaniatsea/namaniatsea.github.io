@@ -1,7 +1,7 @@
 ---
 title: Among Friends
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Coan River, VA
 position_lat: 38.541333333300

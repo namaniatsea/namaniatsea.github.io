@@ -2,7 +2,7 @@
 title: At Chart's End... A Recap
 type: namani_blog_post
 author: Nana & Markus
-layout: post
+layout: page
 frontpage: true
 location: Port Antonio, Jamaica
 position_lat: 18.180000000000

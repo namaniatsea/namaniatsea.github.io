@@ -2,7 +2,7 @@
 title: New Head and New Photo Album
 type: namani_blog_post
 author: Cruising the Australian East Coast
-layout: post
+layout: page
 frontpage: true
 location: Pittwater, NSW
 position_lat: -33.623333333300

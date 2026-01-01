@@ -1,7 +1,7 @@
 ---
 title: Breakfast with Andre
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Tauranga Bridge Marina, New Zealand
 position_lat: -37.670000000000

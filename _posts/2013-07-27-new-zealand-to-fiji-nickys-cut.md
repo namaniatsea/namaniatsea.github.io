@@ -1,7 +1,7 @@
 ---
 title: New Zealand to Fiji - Nicky's Cut
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 position_lat: -17.315000000000
 position_lon: 178.171666666700

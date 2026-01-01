@@ -1,7 +1,7 @@
 ---
 title: Welcome to Nicky's Page
 type: article
-layout: post
+layout: page
 frontpage: true
 summary: >
   I am Nicky and I am the little guy on Namani. I like to play Lego which I have five boxes of, and I like macaroni. I also like big boats (that “big” is over 100 ft). But I also like racing sailboats and snorkeling.

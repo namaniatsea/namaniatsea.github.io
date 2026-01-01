@@ -2,7 +2,7 @@
 title: Out of soundings ...
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: En route from Charleston NC, towards Bahamas and/or Jamaica
 position_lat: 32.165833333300

@@ -2,7 +2,7 @@
 title: Schau mir in die Augen Kleines  (noch ca. 40 sm bis wir Casablanca passieren)
 type: namani_blog_post
 author: Nana & Markus
-layout: post
+layout: page
 frontpage: true
 location: 34=B011'N 008=B023'W - Vor der marokkanischen Küste
 position_lat: 34.894666666700

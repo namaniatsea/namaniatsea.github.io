@@ -2,7 +2,7 @@
 title: Third night out
 type: namani_blog_post
 author: "Wind: none"
-layout: post
+layout: page
 frontpage: true
 location: Turned the corner, now with direct course to Galapagos
 position_lat: 3.723500000000

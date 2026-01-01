@@ -2,7 +2,7 @@
 title: Work Week Completed - Back at Balboa
 type: namani_blog_post
 author: Wind N@15kn
-layout: post
+layout: page
 frontpage: true
 location: Balboa, Panama
 position_lat: 8.458333333300

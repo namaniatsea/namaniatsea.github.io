@@ -2,7 +2,7 @@
 title: Von Milos nach Malta - Leben auf der schiefen Ebene...
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Kalkara Creek, Malta
 position_lat: 37.143333333300

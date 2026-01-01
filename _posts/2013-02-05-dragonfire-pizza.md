@@ -2,7 +2,7 @@
 title: Dragonfire pizza
 type: namani_blog_post
 author: Spending the South Pacific cyclone season in New Zealand
-layout: post
+layout: page
 frontpage: true
 location: Anchored in Oneroa Bay off Waiheke Island in the Hauraki Gulf
 position_lat: -36.780000000000

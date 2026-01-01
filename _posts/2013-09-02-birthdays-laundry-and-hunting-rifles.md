@@ -2,7 +2,7 @@
 title: Birthdays, laundry and hunting rifles
 type: namani_blog_post
 author: Cruising in Vanuatu
-layout: post
+layout: page
 frontpage: true
 location: Anchored in Dillon's Bay, off the island of Erromango
 position_lat: -18.816666666700

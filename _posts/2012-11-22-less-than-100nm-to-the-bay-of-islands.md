@@ -1,7 +1,7 @@
 ---
 title: Less than 100nm to the Bay of Islands
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: En route between Minerva Reef and New Zealand
 position_lat: -33.966666666700

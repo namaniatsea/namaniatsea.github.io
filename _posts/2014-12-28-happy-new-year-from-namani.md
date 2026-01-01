@@ -1,7 +1,7 @@
 ---
 title: Happy New Year from NaMaNi!
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 image: assets/posts/greenwich_600.jpg
 ---

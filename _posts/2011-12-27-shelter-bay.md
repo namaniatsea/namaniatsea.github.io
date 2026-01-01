@@ -2,7 +2,7 @@
 title: Shelter Bay
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Shelter Bay Marina, Panama
 position_lat: 9.368333333300

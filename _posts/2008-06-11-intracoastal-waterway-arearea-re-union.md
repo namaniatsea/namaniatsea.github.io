@@ -2,7 +2,7 @@
 title: Intracoastal Waterway & Arearea Re-union
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Off Belhaven, near mile 135 of the ICW
 position_lat: 16.983333333300

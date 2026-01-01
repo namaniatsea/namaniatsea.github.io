@@ -2,7 +2,7 @@
 title: Welcome to Gloucester!
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Gloucester, MA
 position_lat: 42.611666666700

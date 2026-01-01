@@ -2,7 +2,7 @@
 title: Third night out
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: N13-32 W77-21 - en route from Jamaica to Panama
 position_lat: 13.533333333300

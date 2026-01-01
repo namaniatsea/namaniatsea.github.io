@@ -2,7 +2,7 @@
 title: Good holding
 type: namani_blog_post
 author: Crusing along the Australien East Coast
-layout: post
+layout: page
 frontpage: true
 location: Port Stephens, NSW
 position_lat: -32.666666666700

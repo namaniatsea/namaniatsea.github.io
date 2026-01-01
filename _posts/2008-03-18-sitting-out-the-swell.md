@@ -2,7 +2,7 @@
 title: Sitting out the swell
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Deshaies, Guadelope
 position_lat: 16.983333333300

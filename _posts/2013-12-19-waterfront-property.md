@@ -2,7 +2,7 @@
 title: Waterfront Property
 type: namani_blog_post
 author: Cruising the Australian East Coast
-layout: post
+layout: page
 frontpage: true
 location: Sydney Harbour
 position_lat: -33.848333333300

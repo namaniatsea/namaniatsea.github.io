@@ -2,7 +2,7 @@
 title: This could be the last time...
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: 100 nm East of New York City - 40-42NN 071-38W
 position_lat: 37.685000000000

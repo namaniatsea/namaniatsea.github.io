@@ -1,7 +1,7 @@
 ---
 title: Moving south - in small steps
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: anchored off Ha'ano Island,  Ha'pai Group, Tonga
 position_lat: -19.670333333300

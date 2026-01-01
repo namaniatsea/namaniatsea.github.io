@@ -1,7 +1,7 @@
 ---
 title: Anchor Excitement
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Anchored off Cristobal, Galapagos
 position_lat: -0.896333333300

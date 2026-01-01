@@ -1,7 +1,7 @@
 ---
 title: Turning the corner
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: En route from Suwarrow to Niue
 position_lat: -18.589166666700

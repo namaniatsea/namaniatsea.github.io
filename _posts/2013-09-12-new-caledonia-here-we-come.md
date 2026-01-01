@@ -2,7 +2,7 @@
 title: New Caledonia here we come
 type: namani_blog_post
 author: Under way between Vanuatu and New Caledonia
-layout: post
+layout: page
 frontpage: true
 location: S22-08 W167-14
 position_lat: -22.133333333300

@@ -2,7 +2,7 @@
 title: A beautiful breezy spot
 type: namani_blog_post
 author: Cruising in New Caledonia
-layout: post
+layout: page
 frontpage: true
 location: Anchored off Ilot Mbe Kouen
 position_lat: -22.266666666700

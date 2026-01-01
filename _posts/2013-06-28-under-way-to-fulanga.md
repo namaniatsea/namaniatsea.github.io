@@ -2,7 +2,7 @@
 title: Under way to Fulanga
 type: namani_blog_post
 author: Cruising in Fiji
-layout: post
+layout: page
 frontpage: true
 location: S18-40 W178-55
 position_lat: -18.666666666700

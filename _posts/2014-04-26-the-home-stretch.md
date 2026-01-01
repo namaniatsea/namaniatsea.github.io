@@ -2,7 +2,7 @@
 title: The home stretch
 type: namani_blog_post
 author: Sailing up the Queensland coast
-layout: post
+layout: page
 frontpage: true
 location: Macona Inlet, Hook Island/Whitsundays
 position_lat: -20.156666666700

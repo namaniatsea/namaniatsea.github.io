@@ -2,7 +2,7 @@
 title: Whales alongside Namani!
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: 16d 51m N  051d 01m W
 position_lat: 16.848333333300

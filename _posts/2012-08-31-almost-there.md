@@ -1,7 +1,7 @@
 ---
 title: Almost there
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Under way to Suwarrow
 position_lat: -13.343166666700

@@ -1,7 +1,7 @@
 ---
 title: Under way again...
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: En route between the Marquesas and the Tuamotus
 position_lat: -9.595333333300

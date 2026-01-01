@@ -2,7 +2,7 @@
 title: Namani goes 3D
 type: namani_blog_post
 author: Cruising along the Australian East Coast
-layout: post
+layout: page
 frontpage: true
 location: Scarborough, Moreton Bay/Queensland
 position_lat: -27.193333333300

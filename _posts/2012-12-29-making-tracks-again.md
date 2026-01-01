@@ -1,7 +1,7 @@
 ---
 title: Making Tracks Again
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Anchored in Te Kouma Harbour, Hauraki Gulf, New Zealand
 position_lat: -36.816666666700

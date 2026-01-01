@@ -2,7 +2,7 @@
 title: On the road again....
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: 20-41N 73-54W; between Great Inagua and Cuba, en route to Jamaica
 position_lat: 20.686666666700

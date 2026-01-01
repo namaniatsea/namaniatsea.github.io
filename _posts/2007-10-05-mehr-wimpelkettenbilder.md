@@ -2,7 +2,7 @@
 title: Mehr Wimpelkettenbilder
 type: namani_blog_post
 author: Nana
-layout: post
+layout: page
 frontpage: true
 location: Ibiza
 position_lat: 37.143333333300

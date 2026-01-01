@@ -1,7 +1,7 @@
 ---
 title: A nice sailing day
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Under way to the Marquesas, S05-29 W092-16
 position_lat: -5.479000000000

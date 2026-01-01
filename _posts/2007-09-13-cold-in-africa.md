@@ -1,7 +1,7 @@
 ---
 title: Cold in Africa
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Bizerte/Tunesia
 position_lat: 37.143333333300

@@ -2,7 +2,7 @@
 title: Plans keep changing...
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: 25-46N, 077-01W - SE of Great Abaco Island
 position_lat: 16.983333333300

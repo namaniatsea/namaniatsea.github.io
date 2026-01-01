@@ -2,7 +2,7 @@
 title: A birthday blow-out and more boat projects
 type: namani_blog_post
 author: Spending the South Pacific cyclone season in New Zealand
-layout: post
+layout: page
 frontpage: true
 location: Moored off Opua
 position_lat: -35.216666666700

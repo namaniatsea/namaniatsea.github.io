@@ -1,7 +1,7 @@
 ---
 title: Back to zero and a strike
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Under way from Minerva Reef to Opua, NZ
 position_lat: -27.066666666700

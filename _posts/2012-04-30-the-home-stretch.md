@@ -1,7 +1,7 @@
 ---
 title: The home stretch...
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Under way to the Marquesas, S09-56 W137-46
 position_lat: -9.933333333300

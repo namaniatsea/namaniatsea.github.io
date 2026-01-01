@@ -1,7 +1,7 @@
 ---
 title: Slow progress
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: En route between Minerva Reef and New Zealand
 position_lat: -31.116666666700

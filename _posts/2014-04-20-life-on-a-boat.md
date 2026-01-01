@@ -1,7 +1,7 @@
 ---
 title: Life on a Boat
 type: nicky_page
-layout: post
+layout: page
 frontpage: true
 summary: >
   This is a video I put together from a bunch of short video clips my parents took aboard Namani. I tried to cover most of the aspects of living aboard a small sailboat as a family.

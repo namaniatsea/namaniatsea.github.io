@@ -1,7 +1,7 @@
 ---
 title: Visit Jupiter!
 type: nicky_page
-layout: post
+layout: page
 frontpage: true
 image: assets/posts/im-jupiter.jpg
 summary: >

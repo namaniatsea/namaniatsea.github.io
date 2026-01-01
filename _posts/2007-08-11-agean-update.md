@@ -1,7 +1,7 @@
 ---
 title: Agean Update
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Livadi, Serifos
 position_lat: 37.143333333300

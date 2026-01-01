@@ -1,7 +1,7 @@
 ---
 title: New school report by Nicky
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 position_lat: -19.055666666700
 position_lon: -169.924500000000

@@ -2,7 +2,7 @@
 title: Under the Duke's Nose
 type: namani_blog_post
 author: Spending the South Pacific cyclone season in New Zealand
-layout: post
+layout: page
 frontpage: true
 location: Whangaroa, North Island
 position_lat: -35.008333333300

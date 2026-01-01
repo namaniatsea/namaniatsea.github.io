@@ -2,7 +2,7 @@
 title: Hoping we'll be wrong again...
 type: namani_blog_post
 author: Cruising in New Caledoniw
-layout: post
+layout: page
 frontpage: true
 location: Noumea
 position_lat: -22.276666666700

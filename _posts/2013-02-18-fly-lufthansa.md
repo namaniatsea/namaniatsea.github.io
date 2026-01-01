@@ -2,7 +2,7 @@
 title: Fly Lufthansa
 type: namani_blog_post
 author: Spending the South Pacific cyclone season in New Zealand
-layout: post
+layout: page
 frontpage: true
 location: Cavali Islands, 15nm north of the Bay of Islands
 position_lat: -35.008333333300

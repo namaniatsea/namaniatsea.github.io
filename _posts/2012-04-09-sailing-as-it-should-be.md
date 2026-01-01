@@ -1,7 +1,7 @@
 ---
 title: Sailing as it should be
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Under way to the Marquesas, S06-57 W095-35
 position_lat: -6.950000000000

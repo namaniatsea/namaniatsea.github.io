@@ -2,7 +2,7 @@
 title: New Zealand to Fiji - Week 1
 type: namani_blog_post
 author: Under way from New Zealand to Fiji
-layout: post
+layout: page
 frontpage: true
 location: S25-44 E178-00
 position_lat: -25.733333333300

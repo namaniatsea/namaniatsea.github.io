@@ -2,7 +2,7 @@
 title: Moored at Olbia, sitting out a gale
 type: namani_blog_post
 author: Nana & Markus
-layout: post
+layout: page
 frontpage: true
 location: Circulo Nautico Olbia
 position_lat: 39.930000000000

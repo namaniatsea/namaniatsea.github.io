@@ -2,7 +2,7 @@
 title: Getting settled
 type: namani_blog_post
 author: Cruising along Australia's East Coast
-layout: post
+layout: page
 frontpage: true
 location: Coffs Harbour
 position_lat: -30.303333333300

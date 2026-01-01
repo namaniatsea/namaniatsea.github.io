@@ -1,7 +1,7 @@
 ---
 title: Nicky's birthday
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Moored off Niue
 position_lat: -19.055666666700

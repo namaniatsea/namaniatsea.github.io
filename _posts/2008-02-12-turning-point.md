@@ -2,7 +2,7 @@
 title: Turning Point
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Prickly Bay, Grenada
 position_lat: 16.983333333300

@@ -2,7 +2,7 @@
 title: What Tradewinds?
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: 16d 56m N  054d 42m W
 position_lat: 16.940000000000

@@ -2,7 +2,7 @@
 title: New Photo Album and Weather Update
 type: namani_blog_post
 author: Crusing New Caledonia
-layout: post
+layout: page
 frontpage: true
 location: Noumea
 position_lat: -22.276666666700

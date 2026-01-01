@@ -1,7 +1,7 @@
 ---
 title: Neues von der Wimpelkette
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Gibraltar
 position_lat: 37.143333333300

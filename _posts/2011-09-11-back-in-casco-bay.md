@@ -2,7 +2,7 @@
 title: Back in Casco Bay
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: The Goslings
 position_lat: 44.383333333300

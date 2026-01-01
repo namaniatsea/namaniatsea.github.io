@@ -2,7 +2,7 @@
 title: Then and Now
 type: namani_blog_post
 author: Sailing up the Queensland coast
-layout: post
+layout: page
 frontpage: true
 location: Cairns, QLD
 position_lat: -16.918333333300

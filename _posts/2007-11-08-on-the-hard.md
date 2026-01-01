@@ -2,7 +2,7 @@
 title: On the Hard
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Puerto Calero/Lanzarote
 position_lat: 28.916666666700

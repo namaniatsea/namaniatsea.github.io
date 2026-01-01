@@ -1,7 +1,7 @@
 ---
 title: Scallops and Tuatuas
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Anchored off Scallop Beach, Great Mercury Island, New Zealand
 position_lat: -36.600000000000

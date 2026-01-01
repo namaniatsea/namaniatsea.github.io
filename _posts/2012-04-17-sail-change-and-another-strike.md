@@ -1,7 +1,7 @@
 ---
 title: Sail change and another strike
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Under way to the Marquesas, S08-44 W111-37
 position_lat: -8.733333333300

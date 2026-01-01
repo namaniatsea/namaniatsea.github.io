@@ -2,7 +2,7 @@
 title: Von Tunesien nach Menorca
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Mahon, Menorca
 position_lat: 37.143333333300

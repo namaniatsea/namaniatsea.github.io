@@ -1,7 +1,7 @@
 ---
 title: A pit stop in Taihoae...
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Anchored in Daniel's Bay, Nuku Hiva, northern Marquesas
 position_lat: -8.945000000000

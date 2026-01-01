@@ -1,7 +1,7 @@
 ---
 title: New Pictures / Neue Bilder
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 position_lat: 16.983333333300
 position_lon: -61.715000000000

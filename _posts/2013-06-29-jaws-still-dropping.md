@@ -2,7 +2,7 @@
 title: Jaws still dropping
 type: namani_blog_post
 author: Cruising in Fiji
-layout: post
+layout: page
 frontpage: true
 location: Anchored in Fulanga, southern Lau Group
 position_lat: -19.133333333300

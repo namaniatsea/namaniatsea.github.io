@@ -2,7 +2,7 @@
 title: The Trades are back!
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: 17d 11m N  048d 47m W
 position_lat: 17.188333333300

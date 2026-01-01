@@ -2,7 +2,7 @@
 title: An addition to our top-10 list of favorite anchorges
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Anchored off Snow Island, Casco Bay - 43-49N 069-54W
 position_lat: 43.809166666700

@@ -1,7 +1,7 @@
 ---
 title: Greetings from Minerva
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Anchored inside North Minerva Reef
 position_lat: -23.616666666700

@@ -2,7 +2,7 @@
 title: No Scurvy Today!
 type: namani_blog_post
 author: Cruising in Fiji
-layout: post
+layout: page
 frontpage: true
 location: Anchored off Volivoli Point, Viti Levu
 position_lat: -17.315000000000

@@ -1,7 +1,7 @@
 ---
 title: At anchor again - at last
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Anchored in Opunohu Bay. Moorea, French Polynesia
 position_lat: -17.491666666700

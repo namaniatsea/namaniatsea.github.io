@@ -2,7 +2,7 @@
 title: Under way again
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: N17-36 W76-10 - en route from Jamaica to Panama
 position_lat: 17.610500000000

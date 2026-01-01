@@ -2,7 +2,7 @@
 title: Greece to Malta
 type: namani_blog_post
 author: Nana
-layout: post
+layout: page
 frontpage: true
 location: Kalkara Creek, Malta
 position_lat: 37.143333333300

@@ -2,7 +2,7 @@
 title: Westwards again!
 type: namani_blog_post
 author: Cruising in Fiji
-layout: post
+layout: page
 frontpage: true
 location: Anchored off Naingani, off the east coast of Viti Levu
 position_lat: -17.566666666700

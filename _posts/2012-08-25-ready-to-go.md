@@ -1,7 +1,7 @@
 ---
 title: Ready to go
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Anchored off Maupiti
 position_lat: -16.472666666700

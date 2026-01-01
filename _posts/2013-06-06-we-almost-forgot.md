@@ -2,7 +2,7 @@
 title: We almost forgot...
 type: namani_blog_post
 author: Under way from New Zealand to Fiji
-layout: post
+layout: page
 frontpage: true
 location: S22-33 E179-01
 position_lat: -22.550000000000

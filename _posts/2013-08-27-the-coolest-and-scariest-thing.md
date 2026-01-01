@@ -2,7 +2,7 @@
 title: The "coolest and scariest thing"...
 type: namani_blog_post
 author: Cruising in Vanuatu
-layout: post
+layout: page
 frontpage: true
 location: Anchored in Port Resolution, off the island of Tanna
 position_lat: -19.533333333300

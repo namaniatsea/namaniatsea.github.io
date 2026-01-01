@@ -2,7 +2,7 @@
 title: Today's Menu
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Yarmouth, Maine
 position_lat: 43.790166666700

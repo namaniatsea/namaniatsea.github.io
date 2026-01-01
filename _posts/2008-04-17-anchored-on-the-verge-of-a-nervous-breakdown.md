@@ -2,7 +2,7 @@
 title: Anchored on the verge of a nervous breakdown
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Bahia de Almodovar, Culebra, Spanish Virgin Islands
 position_lat: 16.983333333300

@@ -1,7 +1,7 @@
 ---
 title:  "Galapagos Islands: Hot Spot in the Tropics"
 type: nicky_page
-layout: post
+layout: page
 frontpage: true
 image: assets/posts/Seymour_-_blue_footed_boobies_(7).CR2_.jpg
 ---

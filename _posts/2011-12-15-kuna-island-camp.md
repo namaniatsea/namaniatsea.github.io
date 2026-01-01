@@ -1,7 +1,7 @@
 ---
 title: Kuna Island Camp
 type: nicky_page
-layout: post
+layout: page
 frontpage: true
 image: assets/posts/Kuna_ReportNi_studies_Kuna_camp.jpg
 summary: >

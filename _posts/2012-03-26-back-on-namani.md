@@ -2,7 +2,7 @@
 title: Back on Namani
 type: namani_blog_post
 author: Nana
-layout: post
+layout: page
 frontpage: true
 location: Anchored off Cristobal, Galapagos
 position_lat: -0.896333333300

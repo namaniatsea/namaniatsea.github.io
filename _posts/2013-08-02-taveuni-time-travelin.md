@@ -1,7 +1,7 @@
 ---
 title: Taveuni Time Travelin'
 type: nicky_page
-layout: post
+layout: page
 frontpage: true
 image: assets/posts/taveuni_waterfall.JPG
 summary: >

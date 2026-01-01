@@ -2,7 +2,7 @@
 title: Sailing to "Long Island"
 type: namani_blog_post
 author: Cruising in Fiji
-layout: post
+layout: page
 frontpage: true
 location: Anchored off Daliconi, Vanua Mbalava, Northern Lau Group
 position_lat: -17.216666666700

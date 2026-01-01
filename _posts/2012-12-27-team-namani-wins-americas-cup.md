@@ -1,7 +1,7 @@
 ---
 title: Team Namani Wins Americas Cup
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Auckland, NZ
 position_lat: -36.836666666700

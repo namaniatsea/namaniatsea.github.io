@@ -2,7 +2,7 @@
 title: What a night!
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: 19-55N 74-20W
 position_lat: 19.915000000000

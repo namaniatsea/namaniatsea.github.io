@@ -2,7 +2,7 @@
 title: Arrival in the US of A
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Harbor Town Marina, Fort Pierce, Florida
 position_lat: 16.983333333300

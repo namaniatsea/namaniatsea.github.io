@@ -2,7 +2,7 @@
 title: Four years in fourty words or less
 type: namani_blog_post
 author: Going home the long way
-layout: post
+layout: page
 frontpage: true
 location: Tarrytown, NY
 position_lat: 40.900000000000

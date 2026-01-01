@@ -2,7 +2,7 @@
 title: Ready to go?
 type: namani_blog_post
 author: Nana
-layout: post
+layout: page
 frontpage: true
 location: Charlestown, South Carolina
 position_lat: 33.342166666700

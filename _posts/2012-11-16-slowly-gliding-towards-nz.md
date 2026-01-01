@@ -1,7 +1,7 @@
 ---
 title: Slowly gliding towards NZ
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Under way from Minerva Reef to Opua, NZ
 position_lat: -25.616666666700

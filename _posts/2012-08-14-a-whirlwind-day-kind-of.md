@@ -1,7 +1,7 @@
 ---
 title: A whirlwind day (kind of)
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Anchored in Baie d'Avea, off the SW corner of Huahine
 position_lat: -16.639500000000

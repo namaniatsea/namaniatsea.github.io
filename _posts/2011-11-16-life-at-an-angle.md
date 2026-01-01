@@ -2,7 +2,7 @@
 title: Life at an angle...
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: 24-09N 73-46W
 position_lat: 29.149166666700

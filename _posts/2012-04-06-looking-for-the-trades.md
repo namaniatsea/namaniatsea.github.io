@@ -1,7 +1,7 @@
 ---
 title: Looking for the trades...
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Under way to the Marquesas, S04-08 W091-28
 position_lat: -4.148000000000

@@ -2,7 +2,7 @@
 title: Das Knaurs Spielbuch
 type: namani_blog_post
 author: Spending the South Pacific cyclone season in New Zealand
-layout: post
+layout: page
 frontpage: true
 location: Anchored off Motuihe in the Hauraki Gulf
 position_lat: -36.816666666700

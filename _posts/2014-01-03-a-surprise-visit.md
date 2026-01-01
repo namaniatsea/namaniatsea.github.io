@@ -2,7 +2,7 @@
 title: A Surprise Visit
 type: namani_blog_post
 author: Cruising along the Australian East Coast
-layout: post
+layout: page
 frontpage: true
 location: Rose Bay, Sydney Harbour
 position_lat: -33.866666666700

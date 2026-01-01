@@ -2,7 +2,7 @@
 title: Mangroves, Mosquitoes, and Cyclones
 type: namani_blog_post
 author: Sailing up the Queensland coast
-layout: post
+layout: page
 frontpage: true
 location:  Pacific Creek, Curtis Island
 position_lat: -23.500000000000

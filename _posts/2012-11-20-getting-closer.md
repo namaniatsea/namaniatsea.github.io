@@ -1,7 +1,7 @@
 ---
 title: Getting closer...
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: En route between Minerva Reef and New Zealand
 position_lat: -32.216666666700

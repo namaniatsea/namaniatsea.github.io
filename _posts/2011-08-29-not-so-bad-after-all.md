@@ -2,7 +2,7 @@
 title: Not so bad after all
 type: namani_blog_post
 author: Markus
-layout: post
+layout: page
 frontpage: true
 location: Peaks Island
 position_lat: 43.790166666700

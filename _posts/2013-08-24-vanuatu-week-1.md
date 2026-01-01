@@ -2,7 +2,7 @@
 title: Vanuatu - Week 1
 type: namani_blog_post
 author: Cruising in Vanuatu
-layout: post
+layout: page
 frontpage: true
 location: S20-08 W169-47
 position_lat: -20.133333333300

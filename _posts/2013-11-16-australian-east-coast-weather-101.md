@@ -1,7 +1,7 @@
 ---
 title: Australian East Coast Weather 101
 type: namani_blog_post
-layout: post
+layout: page
 frontpage: true
 location: Anchored in Coffs Harbour, Australia
 position_lat: -30.300000000000

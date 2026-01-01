@@ -2,7 +2,7 @@
 title: Florida (yes - Florida)
 type: namani_blog_post
 author: Nana
-layout: post
+layout: page
 frontpage: true
 location: Fort Pierce
 position_lat: 16.983333333300
