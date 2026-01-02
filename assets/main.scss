@@ -1,0 +1,40 @@
+---
+# This ensures Jekyll processes the file
+---
+@import "minima";
+
+// --- YOUR CUSTOM CSS STARTS HERE ---
+
+.post-item-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 25px;
+  margin-bottom: 40px;
+  list-style: none;
+}
+
+.post-thumbnail {
+  flex-shrink: 0;
+  width: 200px;
+}
+
+.post-thumbnail img {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.post-content-right {
+  flex: 1;
+}
+
+@media (max-width: 600px) {
+  .post-item-container {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .post-thumbnail {
+    width: 100%;
+  }
+}
