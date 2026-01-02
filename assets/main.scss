@@ -5,6 +5,38 @@
 
 // --- YOUR CUSTOM CSS STARTS HERE ---
 
+.banner {
+  margin-bottom: 2rem;
+  width: 100%;
+  position: relative;
+}
+
+.banner-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.banner-text {
+  position: absolute;
+  top: 10%;
+  right: 3%;
+  color: white;
+  font-size: 1.25rem;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  max-width: 50%;
+  line-height: 1.2;
+  text-align: right;
+}
+
+@media (max-width: 768px) {
+  .banner-text {
+    font-size: 1rem;
+    max-width:100%;
+  }
+}
+
 .post-item-container {
   display: flex;
   align-items: flex-start;
@@ -28,6 +60,41 @@
 .post-content-right {
   flex: 1;
 }
+
+.post-excerpt {
+  margin-top: 10px;
+  line-height: 1.5;
+  color: #666;
+  /* This ensures the text looks good now that it's plain text */
+}
+
+
+/* Styling for the Read More link */
+.read-more {
+  display: inline-block;
+  margin-top: 5px;
+  // font-weight: bold;
+  font-style: italic;
+  font-size: 0.9em;
+  color: #2a7ae2; /* Standard Minima link color */
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.read-more:hover {
+  color: #111;
+  text-decoration: underline;
+}
+
+/* Optional: Make it look like a small button */
+/*
+.read-more {
+  background: #f4f4f4;
+  padding: 4px 10px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+}
+*/
 
 @media (max-width: 600px) {
   .post-item-container {

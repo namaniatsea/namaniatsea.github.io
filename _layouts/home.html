@@ -3,6 +3,9 @@ layout: default
 ---
 
 <div class="home">
+
+  {%- include banner_image.html -%}
+
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
@@ -35,7 +38,8 @@ layout: default
           </h3>
           {%- if site.show_excerpts -%}
             <div class="post-excerpt">
-              {{ post.excerpt | truncatewords: 30 }}
+              {{ post.excerpt | strip_html | truncatewords: 30 }}
+              <a href="{{ post.url | relative_url }}" class="read-more">Read more &rarr;</a>
             </div>
           {%- endif -%}
         </div>

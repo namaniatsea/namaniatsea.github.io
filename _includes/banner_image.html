@@ -1,0 +1,8 @@
+  {%- if page.banner_image -%}
+    <div class="banner">
+      <img src="{{ page.banner_image | relative_url }}" alt="{{ page.banner_alt | default: 'Banner' }}" class="banner-image">
+      {%- if page.banner_text -%}
+        <div class="banner-text">{{ page.banner_text }}</div>
+      {%- endif -%}
+    </div>
+  {%- endif -%}
