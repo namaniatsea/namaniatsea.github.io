@@ -2,7 +2,7 @@
 title: Laying Up Namani
 type: namani_blog_post
 author: Nana
-layout: page
+layout: post
 frontpage: true
 location: Yarmouth, Maine
 position_lat: 43.795333333300

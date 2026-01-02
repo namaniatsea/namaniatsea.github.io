@@ -1,7 +1,7 @@
 ---
 title: Namani off "The Rock"
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Moored off Niue
 position_lat: -19.055666666700

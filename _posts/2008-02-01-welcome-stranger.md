@@ -2,7 +2,7 @@
 title: Welcome Stranger!
 type: namani_blog_post
 author: Nana & Markus
-layout: page
+layout: post
 frontpage: true
 location: Port Elizabeth, St. Lucia
 position_lat: 16.983333333300

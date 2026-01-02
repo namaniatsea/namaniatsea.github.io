@@ -2,7 +2,7 @@
 title: First Landfall
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Vulcano, Aeolian Islands
 position_lat: 39.930000000000

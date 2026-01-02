@@ -1,7 +1,7 @@
 ---
 title: Child's play
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Anchored in Hanga Haa, Nuku Hiva, northern Marquesas
 position_lat: -8.879666666700

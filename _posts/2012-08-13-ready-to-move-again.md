@@ -1,7 +1,7 @@
 ---
 title: Ready to move again
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Anchored in Baie d'Avea, off the SW corner of Huahine
 position_lat: -16.811500000000

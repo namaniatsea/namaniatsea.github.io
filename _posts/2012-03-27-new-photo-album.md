@@ -1,7 +1,7 @@
 ---
 title: New Photo Album
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Cristobal
 position_lat: -0.896333333300

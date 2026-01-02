@@ -1,7 +1,7 @@
 ---
 title: Hallo aus Milos
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Milos /Aegean
 position_lat: 37.143333333300

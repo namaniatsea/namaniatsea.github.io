@@ -2,7 +2,7 @@
 title: Video of Namani under Sail
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Strait of Gibraltar
 position_lat: 37.143333333300

@@ -1,7 +1,7 @@
 ---
 title: Portobelo, Panama
 type: nicky_page
-layout: page
+layout: post
 frontpage: true
 image: assets/posts/Ni_studies_fort_2.jpg
 ---

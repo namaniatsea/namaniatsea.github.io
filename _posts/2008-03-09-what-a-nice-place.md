@@ -2,7 +2,7 @@
 title: What a nice place
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Prince Rupert Bay, Dominica
 position_lat: 16.983333333300

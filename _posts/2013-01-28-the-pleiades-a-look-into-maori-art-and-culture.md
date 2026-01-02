@@ -1,7 +1,7 @@
 ---
 title: "The Pleiades: A Look Into Maori Art and Culture"
 type: nicky_page
-layout: page
+layout: post
 frontpage: true
 image: assets/posts/ni_sign.JPG
 summary: >

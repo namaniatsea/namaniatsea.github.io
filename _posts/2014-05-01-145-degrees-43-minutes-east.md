@@ -2,7 +2,7 @@
 title: 145 degrees 43 minutes East...
 type: namani_blog_post
 author: Sailing up the Queensland coast
-layout: page
+layout: post
 frontpage: true
 location: Yorkey's Knob Boat Club
 position_lat: -16.801666666700

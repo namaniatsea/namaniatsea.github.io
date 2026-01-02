@@ -2,7 +2,7 @@
 title: Back in Les Saintes with some new videos
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Le Bourg, Les Saintes
 position_lat: 16.983333333300

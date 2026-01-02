@@ -2,7 +2,7 @@
 title: Hallo aus Patras
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Patras
 position_lat: 39.930000000000

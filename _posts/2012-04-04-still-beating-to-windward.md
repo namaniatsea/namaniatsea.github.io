@@ -2,7 +2,7 @@
 title: Still beating to windward...
 type: namani_blog_post
 author: Wind SW@20kn
-layout: page
+layout: post
 frontpage: true
 location: Under way to the Marquesas, S01-46 W090-41
 position_lat: -1.766666666700

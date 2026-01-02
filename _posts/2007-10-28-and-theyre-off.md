@@ -2,7 +2,7 @@
 title: And... they're off!
 type: namani_blog_post
 author: Nana & Markus
-layout: page
+layout: post
 frontpage: true
 location: Off the Moroccon Coast
 position_lat: 35.833333333300

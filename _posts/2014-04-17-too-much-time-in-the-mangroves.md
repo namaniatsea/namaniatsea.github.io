@@ -2,7 +2,7 @@
 title: Too much time in the mangroves...
 type: namani_blog_post
 author: Sailing up the Queensland coast
-layout: page
+layout: post
 frontpage: true
 location: Rosslyn Bay
 position_lat: -23.161666666700

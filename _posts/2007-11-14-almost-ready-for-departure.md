@@ -2,7 +2,7 @@
 title: (Almost) Ready for Departure
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Puerto Calero
 position_lat: 28.916666666700

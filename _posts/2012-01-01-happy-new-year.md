@@ -1,7 +1,7 @@
 ---
 title: Happy New Year!
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Shelter Bay Marina, Panama
 position_lat: 9.368333333300

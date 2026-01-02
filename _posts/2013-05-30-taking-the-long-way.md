@@ -2,7 +2,7 @@
 title: Taking the long way...
 type: namani_blog_post
 author: Under way from New Zealand to Fiji
-layout: page
+layout: post
 frontpage: true
 location: S28-02 E173-03
 position_lat: -28.033333333300

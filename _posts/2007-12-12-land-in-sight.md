@@ -2,7 +2,7 @@
 title: Land in sight!!
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 position_lat: 16.983333333300
 position_lon: -61.716666666700

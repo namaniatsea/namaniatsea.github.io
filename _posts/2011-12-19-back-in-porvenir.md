@@ -2,7 +2,7 @@
 title: Back in Porvenir
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Porvenir, San Blas Islands, Panama
 position_lat: 9.557333333300

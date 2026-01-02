@@ -1,7 +1,7 @@
 ---
 title: Foodshopping...
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Anchored in Hakahetau Bay, Ua Pou, northern Marquesas
 position_lat: -9.357166666700

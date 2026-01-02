@@ -1,7 +1,7 @@
 ---
 title: Away from the "big city"
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Anchored off Tahuatu, southern Marquesas
 position_lat: -9.916666666700

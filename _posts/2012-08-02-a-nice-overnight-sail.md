@@ -1,7 +1,7 @@
 ---
 title: A nice overnight sail
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Approaching Raiatea
 position_lat: -16.977333333300

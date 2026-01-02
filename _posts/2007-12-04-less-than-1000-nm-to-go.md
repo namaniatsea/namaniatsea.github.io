@@ -2,7 +2,7 @@
 title: Less than 1000 nm to go!
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: 18d 19m N  045d 41m W
 position_lat: 18.300000000000

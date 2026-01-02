@@ -1,7 +1,7 @@
 ---
 title: Welcome to Namani at Sea
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 image: assets/posts/team_namani.jpg
 ---

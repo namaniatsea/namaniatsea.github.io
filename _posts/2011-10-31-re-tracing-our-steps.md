@@ -2,7 +2,7 @@
 title: Re-tracing our steps
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Buck Island, MIle 56 on the Intracoastal Waterway
 position_lat: 36.266333333300

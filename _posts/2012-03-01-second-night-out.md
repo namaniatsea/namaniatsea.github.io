@@ -2,7 +2,7 @@
 title: Second night out...
 type: namani_blog_post
 author: Wind NE@15kn
-layout: page
+layout: post
 frontpage: true
 location: Under way to Galapagos
 position_lat: 5.343166666700

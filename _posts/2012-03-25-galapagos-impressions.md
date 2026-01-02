@@ -2,7 +2,7 @@
 title: Galapagos Impressions
 type: namani_blog_post
 author: Nana
-layout: page
+layout: post
 frontpage: true
 location: Anchored off Cristobal, Galapagos
 position_lat: -0.896333333300

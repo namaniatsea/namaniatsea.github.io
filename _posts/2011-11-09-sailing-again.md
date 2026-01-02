@@ -2,7 +2,7 @@
 title: Sailing again!
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: N33-20.6 W78-00.7, en-route from Beaufort, NC, to Charleston, SC
 position_lat: 33.342166666700

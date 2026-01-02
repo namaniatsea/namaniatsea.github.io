@@ -1,7 +1,7 @@
 ---
 title: Cruisers' heaven
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Anchored off Anchor Island, Suwarrow, Cook Islands
 position_lat: -13.248166666700

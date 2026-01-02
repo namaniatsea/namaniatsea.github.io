@@ -1,7 +1,7 @@
 ---
 title: New Zealand - Week 1
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Anchored off Opua, Bay of Islands, New Zealand
 position_lat: -35.316666666700

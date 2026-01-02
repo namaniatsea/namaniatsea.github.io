@@ -1,7 +1,7 @@
 ---
 title: A bay to ourselves
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: En route between the Marquesas and the Tuamotus
 position_lat: -16.266666666700

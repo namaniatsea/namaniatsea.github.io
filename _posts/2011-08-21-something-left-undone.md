@@ -2,7 +2,7 @@
 title: Something Left Undone
 type: namani_blog_post
 author: Nana, Markus, and Henry Wadsworth Longfellow
-layout: page
+layout: post
 frontpage: true
 location: Yarmouth, Maine
 position_lat: 43.790166666700

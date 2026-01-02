@@ -2,7 +2,7 @@
 title: The backshore of Peaks Island...
 type: namani_blog_post
 author: Flying home the long way
-layout: page
+layout: post
 frontpage: true
 location: Peaks Island, ME
 position_lat: 43.666666666700

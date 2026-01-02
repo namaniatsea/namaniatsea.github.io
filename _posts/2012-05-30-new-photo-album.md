@@ -1,7 +1,7 @@
 ---
 title: New photo album
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Taihoae
 position_lat: -8.913333333300

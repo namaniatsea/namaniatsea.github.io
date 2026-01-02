@@ -1,7 +1,7 @@
 ---
 title: Back on Hiva Oa
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 position_lat: -9.816666666700
 position_lon: -139.016666666700

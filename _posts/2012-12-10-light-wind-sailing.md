@@ -1,7 +1,7 @@
 ---
 title: Light wind sailing
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Anchored in Tutukaka Harbour, New Zealand
 position_lat: -35.616666666700

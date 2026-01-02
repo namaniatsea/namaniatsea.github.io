@@ -2,7 +2,7 @@
 title: Schöner Abschied, schöner Anfang
 type: namani_blog_post
 author: Nana & Markus
-layout: page
+layout: post
 frontpage: true
 location: St. Maria Navarrese
 position_lat: 39.930000000000

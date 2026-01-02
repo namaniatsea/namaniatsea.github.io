@@ -2,7 +2,7 @@
 title: Free at last...
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: 29-43N 75-47W
 position_lat: 29.708833333300

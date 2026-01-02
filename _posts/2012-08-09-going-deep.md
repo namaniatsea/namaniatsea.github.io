@@ -1,7 +1,7 @@
 ---
 title: Going deep
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Anchored off Ile Tipaemau, Passe Iriru, eastern Raiatea
 position_lat: -16.788666666700

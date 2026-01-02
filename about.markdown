@@ -1,0 +1,12 @@
+---
+layout: page
+title: Welcome to Namani at Sea!
+nav_title: About
+permalink: /about/
+---
+
+We are a family of three who have full-time cruised aboard our 1981 Dufour 35 sloop, Namani for four years. First during a one year "Seabbatical" in 2007/2008 that took us from the Mediterranean across the Atlantic, through the Eastern Caribbean, and eventually up to Portland, Maine in the northeastern US. Our second "intermezzo" took us from Maine through Panama across the Pacific from 2011 to 2013, and we eventually sold Namani to her new owner in Cairns (northeastern Australia) in 2014.
+
+![Namani's journey]({{ "/assets/images/journey.jpg" | relative_url }})
+
+We had started this blog primarily as a means of keeping friends and family informed about our progress (or occasional lack thereof...). Over the years though it has brought us in touch with quite a few new friends, and we value it as a way to capture some snippets of our life aboard Namani during our years aboard. Hence even though we will be land-locked for a while we thought we keep the blog up and running - for your entertainment as much as for ours ;-)

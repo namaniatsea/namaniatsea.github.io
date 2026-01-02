@@ -2,7 +2,7 @@
 title: New Photo Album
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Castine, Maine
 position_lat: 44.383333333300

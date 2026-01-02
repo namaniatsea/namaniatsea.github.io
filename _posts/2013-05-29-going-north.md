@@ -1,7 +1,7 @@
 ---
 title: Going North...
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Under way from New Zealand to Fiji
 position_lat: -32.500000000000

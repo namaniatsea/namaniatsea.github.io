@@ -2,7 +2,7 @@
 title: Sailing again!
 type: namani_blog_post
 author: Wind NNE@8-15kn
-layout: page
+layout: post
 frontpage: true
 location: Las Perlas Islands, Panama; anchored south of Isla Contadora
 position_lat: 8.620166666700

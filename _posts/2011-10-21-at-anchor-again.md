@@ -2,7 +2,7 @@
 title: At Anchor Again
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Hudson Creek, Little Choptank River, Chesapeake Bay
 position_lat: 38.541333333300

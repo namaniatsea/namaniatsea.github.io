@@ -2,7 +2,7 @@
 title: In Port Again
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: 28d 55m N 013d 42m W - Moored at Puerto Calero on Lanzarote
 position_lat: 28.916666666700

@@ -2,7 +2,7 @@
 title: Slow but beautiful
 type: namani_blog_post
 author: "Wind: very light out of the SE"
-layout: page
+layout: post
 frontpage: true
 location: 470nm to go to the Galapagos
 position_lat: 2.990666666700

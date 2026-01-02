@@ -2,7 +2,7 @@
 title: New Caledonia - Bonus Round
 type: namani_blog_post
 author: Cruising in New Caledonia
-layout: page
+layout: post
 frontpage: true
 location: Anchored off Ilot Kourae
 position_lat: -22.766666666700

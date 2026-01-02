@@ -2,7 +2,7 @@
 title: Vor Anker in Portsmouth
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Portsmouth, Dominica
 position_lat: 16.983333333300

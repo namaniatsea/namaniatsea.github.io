@@ -2,7 +2,7 @@
 title: Shopping Guide to the Eastern Caribbean
 type: namani_blog_post
 author: Nana
-layout: page
+layout: post
 frontpage: true
 location: Gelting, Germany
 position_lat: 43.795333333300

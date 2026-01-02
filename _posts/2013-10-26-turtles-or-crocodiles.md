@@ -2,7 +2,7 @@
 title: Turtles or crocodiles?
 type: namani_blog_post
 author: Cruising in New Caledonia
-layout: page
+layout: post
 frontpage: true
 location: Anchored off Ilot Nge
 position_lat: -22.333333333300

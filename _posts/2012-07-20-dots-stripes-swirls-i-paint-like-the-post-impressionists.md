@@ -1,7 +1,7 @@
 ---
 title: "Dots, Stripes, Swirls: I Paint Like the Post-Impressionists"
 type: nicky_page
-layout: page
+layout: post
 frontpage: true
 image: assets/posts/Nicky_Post_Impressionist_art_800x600.JPG
 ---

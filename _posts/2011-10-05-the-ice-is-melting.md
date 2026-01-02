@@ -2,7 +2,7 @@
 title: The ice is melting...
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Annapolis, MD
 position_lat: 38.973333333300

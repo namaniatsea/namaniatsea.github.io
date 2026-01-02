@@ -1,7 +1,7 @@
 ---
 title: Wind again
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Under way to Suwarrow
 position_lat: -15.351500000000

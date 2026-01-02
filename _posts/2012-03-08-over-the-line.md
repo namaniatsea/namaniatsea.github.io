@@ -1,7 +1,7 @@
 ---
 title: Over the Line!
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: 70nm to go to the Galapagos
 position_lat: -0.383333333300

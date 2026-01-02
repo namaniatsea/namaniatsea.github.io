@@ -1,7 +1,7 @@
 ---
 title: Bye bye Niue
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: en route from Niue to Tonga
 position_lat: -19.033000000000

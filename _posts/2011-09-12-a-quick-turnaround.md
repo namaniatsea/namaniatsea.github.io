@@ -2,7 +2,7 @@
 title: A quick turnaround
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Portland, ME
 position_lat: 44.383333333300

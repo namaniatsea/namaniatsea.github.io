@@ -1,7 +1,7 @@
 ---
 title: Boat life - the kid's perspective
 type: nicky_page
-layout: page
+layout: post
 frontpage: true
 summary: >
   While we were in Tauranga (NZ North Island) for some boat work, Nicky made friends with Katie and William from the sailing vessel "Alouette". We gave them a little assignment to create a documentary film about "what it is like to live on a sailboat". We got them started, but they did everything else: agreeing on a script, shooting the video clips with a little compact camera, editiing them and putting them together, and adding transitions, text and music. They spent a total of four days working on this together, and we think the result is well worth watching. There is also a little write-up by Nicky below the video.

@@ -2,7 +2,7 @@
 title: Waiting for and with Irene
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Peaks Island
 position_lat: 43.790166666700

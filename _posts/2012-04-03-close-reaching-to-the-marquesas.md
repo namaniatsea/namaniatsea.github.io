@@ -2,7 +2,7 @@
 title: Close reaching to the Marquesas
 type: namani_blog_post
 author: Wind SSW@10kn
-layout: page
+layout: post
 frontpage: true
 location: Under way to the Marquesas, S01-43 W089-54
 position_lat: -1.704666666700

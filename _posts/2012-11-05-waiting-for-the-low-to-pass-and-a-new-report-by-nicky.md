@@ -1,7 +1,7 @@
 ---
 title: Waiting for the low to pass (and a new report by Nicky)
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Moored in Nuku'alofa Harbour, Tongatapu, Tonga
 position_lat: -21.133333333300

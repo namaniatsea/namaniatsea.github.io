@@ -2,7 +2,7 @@
 title: Back where we started
 type: namani_blog_post
 author: Spending the South Pacific cyclone season in New Zealand
-layout: page
+layout: post
 frontpage: true
 location: Docked at Opua Marina, Bay of Islands
 position_lat: -35.315000000000

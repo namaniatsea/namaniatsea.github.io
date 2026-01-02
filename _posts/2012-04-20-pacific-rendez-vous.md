@@ -1,7 +1,7 @@
 ---
 title: Pacific rendez-vous
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Under way to the Marquesas, S08-51 W118-46
 position_lat: -8.850000000000

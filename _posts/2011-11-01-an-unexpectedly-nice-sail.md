@@ -2,7 +2,7 @@
 title: An unexpectedly nice sail...
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Aligator River, MIle 102 on the Intracoastal Waterway
 position_lat: 35.674333333300

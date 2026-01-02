@@ -2,7 +2,7 @@
 title: A beautiful spot all to ourselves
 type: namani_blog_post
 author: Wind N@10kn
-layout: page
+layout: post
 frontpage: true
 location: Las Perlas Islands, Panama; anchored south of Isla Viveros
 position_lat: 8.458333333300

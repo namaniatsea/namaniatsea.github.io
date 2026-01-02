@@ -2,7 +2,7 @@
 title: The Daily Commute
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Casco Bay Lines ferry between Peaks Island and Portland
 position_lat: 43.790166666700

@@ -2,7 +2,7 @@
 title: Under way again
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: En route to Turks & Caicos
 position_lat: 16.983333333300

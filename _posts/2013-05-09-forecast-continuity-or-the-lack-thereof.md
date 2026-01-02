@@ -2,7 +2,7 @@
 title: Forecast continuity - or the lack thereof...
 type: namani_blog_post
 author: Spending the South Pacific Cyclone Season in New Zealand
-layout: page
+layout: post
 frontpage: true
 location: Anchored off Motuarohia, Bay of Islands
 position_lat: -35.216666666700

@@ -1,7 +1,7 @@
 ---
 title: Power on Namani
 type: nicky_page
-layout: page
+layout: post
 frontpage: true
 image: assets/posts/tow_gen.jpg
 summary: >

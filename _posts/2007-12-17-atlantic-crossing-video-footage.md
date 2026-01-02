@@ -2,7 +2,7 @@
 title: Atlantic Crossing Video Footage
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Jolly Harbour, Antigua
 position_lat: 16.983333333300

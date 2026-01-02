@@ -2,7 +2,7 @@
 title: From Malta to Tunisia and Menorca
 type: namani_blog_post
 author: Nana
-layout: page
+layout: post
 frontpage: true
 location: Mahon, Menorca
 position_lat: 37.143333333300

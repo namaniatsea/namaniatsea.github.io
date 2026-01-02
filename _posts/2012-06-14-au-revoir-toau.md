@@ -1,7 +1,7 @@
 ---
 title: Au revoir Toau
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: En route to Tahiti
 position_lat: -16.541500000000

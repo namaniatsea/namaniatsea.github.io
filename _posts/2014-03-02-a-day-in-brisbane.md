@@ -1,7 +1,7 @@
 ---
 title: A Day in Brisbane
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Scarborough, Queensland
 position_lat: -27.191666666700

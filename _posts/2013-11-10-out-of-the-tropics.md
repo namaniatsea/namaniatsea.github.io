@@ -1,7 +1,7 @@
 ---
 title: Out of the tropics
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: 24-04S 163-39E, en route from New Caledonia to Australia
 position_lat: -24.050000000000

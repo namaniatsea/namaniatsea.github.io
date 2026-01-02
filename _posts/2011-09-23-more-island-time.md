@@ -2,7 +2,7 @@
 title: More Island time ...
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Block Island, RI
 position_lat: 41.185666666700

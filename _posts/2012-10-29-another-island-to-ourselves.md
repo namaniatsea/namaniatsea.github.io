@@ -1,7 +1,7 @@
 ---
 title: Another island to ourselves
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: anchored off Nomuka Iki,  Ha'pai Group, Tonga
 position_lat: -20.277166666700

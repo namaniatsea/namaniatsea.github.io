@@ -2,7 +2,7 @@
 title: A Salty Piece of Land
 type: namani_blog_post
 author: Cruising in New Caledonia
-layout: page
+layout: post
 frontpage: true
 location: Moored off Ilot Amedee
 position_lat: -22.483333333300

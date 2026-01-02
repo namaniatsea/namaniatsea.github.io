@@ -2,7 +2,7 @@
 title: Moving again
 type: namani_blog_post
 author: Under way between Fiji and Vanuatu
-layout: page
+layout: post
 frontpage: true
 location: S18-18 W175-52
 position_lat: -18.300000000000

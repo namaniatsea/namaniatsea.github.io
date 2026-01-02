@@ -2,7 +2,7 @@
 title: HF Installation - Part I
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: 39°59'32"N, 9°41'37"E - St. Maria Navarrese
 position_lat: 39.930000000000

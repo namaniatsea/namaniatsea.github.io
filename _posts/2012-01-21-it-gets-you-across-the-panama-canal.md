@@ -1,7 +1,7 @@
 ---
 title: "It Gets You Across: The Panama Canal"
 type: nicky_page
-layout: page
+layout: post
 frontpage: true
 image: assets/posts/Panama_Canal_Report_03.JPG
 ---

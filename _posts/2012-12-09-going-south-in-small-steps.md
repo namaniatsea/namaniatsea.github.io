@@ -1,7 +1,7 @@
 ---
 title: Going south in small steps
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Anchored in Whangamumu Harbour, New Zealand
 position_lat: -35.250000000000

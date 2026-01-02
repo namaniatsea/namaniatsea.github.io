@@ -2,7 +2,7 @@
 title: Carolina on our mind...
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Beaufort Docks, North Carolina
 position_lat: 16.983333333300

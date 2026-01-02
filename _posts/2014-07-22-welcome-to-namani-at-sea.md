@@ -1,7 +1,7 @@
 ---
 title: Welcome to Namani at Sea
 type: article
-layout: page
+layout: post
 frontpage: true
 ---
 We are a family of three who have cruised and lived aboard our 1981 Dufour 35 sloop *Namani* for four years. First during a one year "Seabbatical" in 2007/2008, that took us from the Mediterranean across the Atlantic, through the Eastern Caribbean, and eventually up to Portland, Maine in the northeastern US. Our second "intermezzo" took us from Maine through Panama and across the Pacific from 2011 to 2013. We eventually sold Namani to her new owner in Cairns in northeastern Australia.

@@ -1,7 +1,7 @@
 ---
 title: Right turn towards the Marquesas
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Under way to the Marquesas, S06-37 W094-02
 position_lat: -6.624500000000

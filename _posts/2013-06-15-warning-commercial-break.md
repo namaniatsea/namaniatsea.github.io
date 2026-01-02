@@ -1,7 +1,7 @@
 ---
 title: "Warning: Commercial Break"
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Savusavu, Vanua Levu, Fiji
 position_lat: -16.778333333300

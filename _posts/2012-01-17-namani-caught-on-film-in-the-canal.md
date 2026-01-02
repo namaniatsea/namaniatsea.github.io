@@ -1,7 +1,7 @@
 ---
 title: Namani caught on film in the Canal!
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Balboa Yacht Club, Panama
 position_lat: 8.937333333300

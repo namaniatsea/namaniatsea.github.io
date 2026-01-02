@@ -1,7 +1,7 @@
 ---
 title: How to Clear Out of Tonga
 type: nicky_page
-layout: page
+layout: post
 frontpage: true
 summary: >
   To clear out of Tonga successfully, you have to go three different offices: Immigration, Port Captain, and Customs. First, we took a white taxi to Immigration. It was very funny because there were many locals waiting patiently at the front door but we just went through the free back door! Then, we took a different van-cab to the Port Captain and paid 30 Paanga. Next, we walked to the small, white Customs house near the container wharf, but they said we should come back at 1:30. So we wandered to a nearly empty restaurant and ate delicious sashimi. After a while, Papi marched back to Customs while Mami and I bought some fruit and rested. 

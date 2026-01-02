@@ -1,7 +1,7 @@
 ---
 title: Moving north
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Anchored off Rotoava, Fakarava, Tuamotus
 position_lat: -16.058000000000

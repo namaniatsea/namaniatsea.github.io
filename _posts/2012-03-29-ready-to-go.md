@@ -1,7 +1,7 @@
 ---
 title: Ready to go...
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Anchored off Cristobal, Galapagos
 position_lat: -0.896333333300

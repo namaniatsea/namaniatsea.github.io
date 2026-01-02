@@ -2,7 +2,7 @@
 title: Wow - time flies!
 type: namani_blog_post
 author: Cruising along the Australian East Coast
-layout: page
+layout: post
 frontpage: true
 location: Scarborough, Moreton Bay/Queensland
 position_lat: -27.193333333300

@@ -2,7 +2,7 @@
 title: '"Gunfire" in the Anchorage'
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Anse Fideling, Terre de Bas, Les Saintes
 position_lat: 16.983333333300

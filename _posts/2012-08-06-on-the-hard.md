@@ -1,7 +1,7 @@
 ---
 title: On the hard
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Chantier Naval, Raiatea
 position_lat: -16.736166666700

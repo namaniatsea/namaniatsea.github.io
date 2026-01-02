@@ -2,7 +2,7 @@
 title: Road Trip to Tongariro National Park
 type: namani_blog_post
 author: Spending the South Pacific cyclone season in New Zealand
-layout: page
+layout: post
 frontpage: true
 location: now back at Tauranga Bridge Marina, North Island
 position_lat: -37.670000000000

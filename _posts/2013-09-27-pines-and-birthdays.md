@@ -2,7 +2,7 @@
 title: Pines and Birthdays
 type: namani_blog_post
 author: Cruising in New Caledonia
-layout: page
+layout: post
 frontpage: true
 location: Ile des Pines, New Caledonia
 position_lat: -22.658333333300

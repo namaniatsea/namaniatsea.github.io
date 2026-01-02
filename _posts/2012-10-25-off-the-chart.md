@@ -1,7 +1,7 @@
 ---
 title: Off the chart
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: anchored off Oua Island,  Ha'pai Group, Tonga
 position_lat: -20.046500000000

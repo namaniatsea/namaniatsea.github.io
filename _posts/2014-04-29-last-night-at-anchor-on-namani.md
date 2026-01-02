@@ -2,7 +2,7 @@
 title: Last Night at Anchor on Namani
 type: namani_blog_post
 author: Sailing up the Queensland coast
-layout: page
+layout: post
 frontpage: true
 location: Anchored in Pioneer Bay, Palm Islands, QLD
 position_lat: -18.600000000000

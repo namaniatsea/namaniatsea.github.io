@@ -2,7 +2,7 @@
 title: Namani in Space - New Photos and Videos
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Fort Pierce, Florida
 position_lat: 16.983333333300

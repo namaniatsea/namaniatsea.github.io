@@ -2,7 +2,7 @@
 title: Pacific by kayak
 type: namani_blog_post
 author: "Wind: none"
-layout: page
+layout: post
 frontpage: true
 location: 421nm to go to the Galapagos
 position_lat: 2.784000000000

@@ -2,7 +2,7 @@
 title: Engine Update
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Fort Pierce, FL
 position_lat: 16.983333333300

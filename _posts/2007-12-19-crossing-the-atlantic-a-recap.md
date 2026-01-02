@@ -2,7 +2,7 @@
 title: Crossing the Atlantic - A Recap
 type: namani_blog_post
 author: Nana
-layout: page
+layout: post
 frontpage: true
 location: Jolly Harbour, Antigua
 position_lat: 16.983333333300

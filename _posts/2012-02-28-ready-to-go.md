@@ -1,7 +1,7 @@
 ---
 title: Ready to go
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Las Perlas Islands, Panama; anchored off Chapera
 position_lat: 8.584500000000

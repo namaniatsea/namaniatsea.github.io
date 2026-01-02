@@ -2,7 +2,7 @@
 title: Out of the frying pan and into the coals...
 type: namani_blog_post
 author: Nana & Markus
-layout: page
+layout: post
 frontpage: true
 location: Yarmouth, Maine
 position_lat: 43.790166666700

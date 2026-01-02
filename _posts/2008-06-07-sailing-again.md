@@ -2,7 +2,7 @@
 title: Sailing again!
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Under way towards Beaufort, NC
 position_lat: 16.983333333300

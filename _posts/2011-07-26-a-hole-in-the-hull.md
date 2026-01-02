@@ -2,7 +2,7 @@
 title: A Hole in the Hull!
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Yarmouth, Maine
 position_lat: 43.790166666700

@@ -1,7 +1,7 @@
 ---
 title: Spass am Spi-Baum and the "Tour de Maupiti"
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Anchored off Maupiti
 position_lat: -16.445166666700

@@ -2,7 +2,7 @@
 title: It's Monday...
 type: namani_blog_post
 author: Nicky
-layout: page
+layout: post
 frontpage: true
 location: Under way to the Marquesas, S09-16 W126-20
 position_lat: -9.266666666700

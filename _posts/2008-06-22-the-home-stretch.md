@@ -2,7 +2,7 @@
 title: The home stretch...
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: 25 nm south of Cape Elizabeth - 43-10N 070-11W
 position_lat: 37.685000000000

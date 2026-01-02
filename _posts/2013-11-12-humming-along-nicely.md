@@ -2,7 +2,7 @@
 title: Humming along nicely
 type: namani_blog_post
 author: En route between New Caledonia and Australia
-layout: page
+layout: post
 frontpage: true
 location: 26-01S 159-45E
 position_lat: -26.016666666700

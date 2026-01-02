@@ -1,7 +1,7 @@
 ---
 title: Keeping up the pace
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Anchored of Tiritiri Island, Hauraki Gulf, New Zealand
 position_lat: -36.600000000000

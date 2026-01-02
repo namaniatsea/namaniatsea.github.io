@@ -1,7 +1,7 @@
 ---
 title: Update from Nicky
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Ionian Sea
 position_lat: 39.930000000000

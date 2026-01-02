@@ -1,7 +1,7 @@
 ---
 title: Perfect timing
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Hiva Oa, Marquesas
 position_lat: -9.816666666700

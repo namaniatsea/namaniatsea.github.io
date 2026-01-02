@@ -2,7 +2,7 @@
 title: Standing by...
 type: namani_blog_post
 author: Wind NNW@15kn, scattered showers
-layout: page
+layout: post
 frontpage: true
 location: Flats Anchorage, off the Atlantic side Canal entrance
 position_lat: 9.343500000000

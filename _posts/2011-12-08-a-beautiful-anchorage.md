@@ -2,7 +2,7 @@
 title: A beautiful anchorage...
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Eastern Lemon Cays, San Blas Islands, Panama
 position_lat: 9.564166666700

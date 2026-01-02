@@ -2,7 +2,7 @@
 title: The Home Stretch (so we hope)!
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: 17d 18m N  059d 51m W
 position_lat: 17.290000000000

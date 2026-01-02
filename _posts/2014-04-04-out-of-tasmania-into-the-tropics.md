@@ -2,7 +2,7 @@
 title: Out of Tasmania, into the Tropics
 type: namani_blog_post
 author: Sailing up the Queensland coast
-layout: page
+layout: post
 frontpage: true
 location: Great Keppel Island, Queensland
 position_lat: -23.158333333300

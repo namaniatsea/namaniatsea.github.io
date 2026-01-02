@@ -2,7 +2,7 @@
 title: Happy New Year from Namani!
 type: namani_blog_post
 author: Cruising along Australia's East Coast
-layout: page
+layout: post
 frontpage: true
 location: Lane Cove, Sydney Harbour
 position_lat: -33.835000000000

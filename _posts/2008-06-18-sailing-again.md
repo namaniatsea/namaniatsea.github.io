@@ -2,7 +2,7 @@
 title: Sailing again
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: East of Delaware
 position_lat: 37.685000000000

@@ -2,7 +2,7 @@
 title: Back in the Gulf
 type: namani_blog_post
 author: Spending the South Pacific cyclone season in New Zealand
-layout: page
+layout: post
 frontpage: true
 location: Anchored off Rotoroa Island in the Hauraki Gulf
 position_lat: -36.816666666700

@@ -1,7 +1,7 @@
 ---
 title: The cruiser's Ponzi scheme
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: anchored off Lape Island, Vava'u Group, Tonga
 position_lat: -18.715833333300

@@ -1,7 +1,7 @@
 ---
 title: Opua School Visit Report
 type: nicky_page
-layout: page
+layout: post
 frontpage: true
 image: assets/posts/Nicky_Opua_School_(3).JPG
 summary: >

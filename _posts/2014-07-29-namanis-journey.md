@@ -1,7 +1,7 @@
 ---
 title: Namani's Journey
 type: page
-layout: page
+layout: post
 frontpage: true
 ---
 <img src="http://namaniatsea.org/sites/default/files/pictures/journey.jpg" alt="Namani's journeys" />

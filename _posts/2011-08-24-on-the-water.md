@@ -2,7 +2,7 @@
 title: On the Water!
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Casco Bay, Maine
 position_lat: 43.790166666700

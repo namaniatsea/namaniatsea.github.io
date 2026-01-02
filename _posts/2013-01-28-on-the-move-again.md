@@ -2,7 +2,7 @@
 title: On the move again
 type: namani_blog_post
 author: Spending the South Pacific cyclone season in New Zealand
-layout: page
+layout: post
 frontpage: true
 location: Anchored off Mayor Island, Bay of Plenty
 position_lat: -37.300000000000

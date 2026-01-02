@@ -2,7 +2,7 @@
 title: The Germans are Coming!
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Cuttyhunk, MA
 position_lat: 41.426666666700

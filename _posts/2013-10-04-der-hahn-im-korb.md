@@ -2,7 +2,7 @@
 title: Der Hahn im Korb
 type: namani_blog_post
 author: Cruising in New Caledonia
-layout: page
+layout: post
 frontpage: true
 location: Noumea, New Caledonia
 position_lat: -22.658333333300

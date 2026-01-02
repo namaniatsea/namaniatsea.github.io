@@ -2,7 +2,7 @@
 title: Under way again
 type: namani_blog_post
 author: Wind N@15-20kn
-layout: page
+layout: post
 frontpage: true
 location: Under way to Galapagos
 position_lat: 7.366666666700

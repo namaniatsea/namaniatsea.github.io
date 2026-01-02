@@ -2,7 +2,7 @@
 title: Buchten  statt Ballermann - Die Balearen von ihrer besten Seite
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Ibiza
 position_lat: 37.143333333300

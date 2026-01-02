@@ -1,7 +1,7 @@
 ---
 title: Hot off the press
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Gelting
 image: assets/posts/epub_cover.jpg

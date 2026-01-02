@@ -2,7 +2,7 @@
 title: Back in France / Wieder in Frankreich
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Le Marin, Martinique
 position_lat: 16.983333333300

@@ -1,7 +1,7 @@
 ---
 title: Namani goes 3D
 type: nicky_page
-layout: page
+layout: post
 frontpage: true
 image: assets/posts/3D_up_view.jpg
 summary: >

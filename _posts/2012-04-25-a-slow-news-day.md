@@ -1,7 +1,7 @@
 ---
 title: A slow news day ...
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Under way to the Marquesas, S09-22 W129-49
 position_lat: -9.366666666700

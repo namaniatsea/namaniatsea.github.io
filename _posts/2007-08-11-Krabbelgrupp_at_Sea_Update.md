@@ -1,7 +1,7 @@
 ---
 title: Krabbelgrupp at Sea Update
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Livadi, Serifos - 37° 08.6' N  024° 30.9'E
 position_lat: 37.143333333300

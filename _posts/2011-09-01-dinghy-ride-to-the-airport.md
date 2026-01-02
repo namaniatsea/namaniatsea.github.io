@@ -2,7 +2,7 @@
 title: Dinghy ride to the airport
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Portland, Maine
 position_lat: 43.790166666700

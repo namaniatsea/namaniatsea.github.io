@@ -2,7 +2,7 @@
 title: Getting there...
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: 18-51N 73-36W
 position_lat: 18.866666666700

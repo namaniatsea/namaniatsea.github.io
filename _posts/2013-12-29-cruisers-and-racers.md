@@ -2,7 +2,7 @@
 title: Cruisers and Racers
 type: namani_blog_post
 author: Cruising along the Australian East Coast
-layout: page
+layout: post
 frontpage: true
 location: Sugarloaf Bay, Middle Harbour
 position_lat: -33.795000000000

@@ -2,7 +2,7 @@
 title: At Anchor Again
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Marigot Bay, St. Lucia
 position_lat: 16.983333333300

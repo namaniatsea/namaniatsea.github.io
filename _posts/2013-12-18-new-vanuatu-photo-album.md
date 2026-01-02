@@ -2,7 +2,7 @@
 title: New Vanuatu Photo Album
 type: namani_blog_post
 author: Cruising the Australian East Coast
-layout: page
+layout: post
 frontpage: true
 location: Careel Bay, Pittwater, NSW
 position_lat: -33.610000000000

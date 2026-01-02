@@ -1,7 +1,7 @@
 ---
 title: New Zealand to Fiji
 type: nicky_page
-layout: page
+layout: post
 frontpage: true
 summary: >
   On the passage from New Zealand to Fiji we took some video clips. I cut and edited them into a four-and-a-half minute movie that you can watch below:

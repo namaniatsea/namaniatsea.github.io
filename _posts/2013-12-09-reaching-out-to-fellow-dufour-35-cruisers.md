@@ -2,7 +2,7 @@
 title: Reaching Out to Fellow Dufour 35 Cruisers
 type: namani_blog_post
 author: Cruising the Australian East Coast
-layout: page
+layout: post
 frontpage: true
 location: Pittwater, NSW
 position_lat: -33.623333333300

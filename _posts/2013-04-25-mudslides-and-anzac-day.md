@@ -2,7 +2,7 @@
 title: Mudslides and ANZAC Day
 type: namani_blog_post
 author: Spending the South Pacific cyclone season in New Zealand
-layout: page
+layout: post
 frontpage: true
 location: Opua, Bay of Islands
 position_lat: -35.316666666700

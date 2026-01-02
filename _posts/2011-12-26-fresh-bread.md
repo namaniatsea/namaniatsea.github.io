@@ -2,7 +2,7 @@
 title: Fresh bread
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Portobelo, Panama
 position_lat: 9.555166666700

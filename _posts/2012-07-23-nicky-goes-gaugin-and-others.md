@@ -1,7 +1,7 @@
 ---
 title: Nicky goes Gaugin (and others)
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 position_lat: -17.583333333300
 position_lon: -149.600000000000

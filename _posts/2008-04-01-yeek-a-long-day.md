@@ -2,7 +2,7 @@
 title: Yeek! A long day...
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: St. Kitts
 position_lat: 16.983333333300

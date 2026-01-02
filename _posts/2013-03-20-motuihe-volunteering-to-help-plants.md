@@ -1,7 +1,7 @@
 ---
 title: "Motuihe: Volunteering to help plants"
 type: nicky_page
-layout: page
+layout: post
 frontpage: true
 image: assets/posts/Motuihe_(30).jpg
 summary: >

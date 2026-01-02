@@ -2,7 +2,7 @@
 title: Pirates of the Caribbean
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Admiralty Bay, Bequia
 position_lat: 16.983333333300

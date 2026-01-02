@@ -2,7 +2,7 @@
 title: Nicky's Maori Arts and Culture report
 type: namani_blog_post
 author: Spending the South Pacific cyclone season in New Zealand
-layout: page
+layout: post
 frontpage: true
 location: Tauranga
 position_lat: -37.670000000000

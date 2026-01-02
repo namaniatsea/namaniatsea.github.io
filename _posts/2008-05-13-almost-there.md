@@ -2,7 +2,7 @@
 title: Almost there...
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: 25-10N, 075-36W - East of Eleuthera Island
 position_lat: 16.983333333300

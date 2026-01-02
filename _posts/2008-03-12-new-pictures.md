@@ -1,7 +1,7 @@
 ---
 title: New Pictures
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Marina Bas du Fort, Guadeloupe
 position_lat: 16.983333333300

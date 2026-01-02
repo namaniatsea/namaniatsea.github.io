@@ -2,7 +2,7 @@
 title: Going West
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: En route toards NW Bahamas
 position_lat: 16.983333333300

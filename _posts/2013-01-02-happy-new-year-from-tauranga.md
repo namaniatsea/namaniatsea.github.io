@@ -1,7 +1,7 @@
 ---
 title: Happy New Year from Tauranga!
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Tauranga Bridge Marina, New Zealand
 position_lat: -37.670000000000

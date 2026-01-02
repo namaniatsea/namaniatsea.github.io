@@ -1,7 +1,7 @@
 ---
 title: New photo album and the road ahead
 type: namani_blog_post
-layout: page
+layout: post
 frontpage: true
 location: Moored off Vaitapa, on Bora Bora's west side
 position_lat: -16.500166666700

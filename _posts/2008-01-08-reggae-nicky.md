@@ -2,7 +2,7 @@
 title: Reggae Nicky
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Antigua (posted from Les Saintes/Guadeloupe)
 position_lat: 16.983333333300

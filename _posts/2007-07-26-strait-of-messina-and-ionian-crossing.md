@@ -2,7 +2,7 @@
 title: Strait of Messina and Ionian Crossing
 type: namani_blog_post
 author: Nana
-layout: page
+layout: post
 frontpage: true
 location: Cephallonia, Ionian Sea, Greece
 position_lat: 39.930000000000

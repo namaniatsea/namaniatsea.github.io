@@ -2,7 +2,7 @@
 title: Catching up -- Bequia to Grenada
 type: namani_blog_post
 author: Markus
-layout: page
+layout: post
 frontpage: true
 location: Prickyl Bay, Grenada - 11°59.9' N  061°45.7' W
 position_lat: 16.983333333300
