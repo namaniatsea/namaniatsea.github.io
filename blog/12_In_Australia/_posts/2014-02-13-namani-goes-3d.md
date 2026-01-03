@@ -11,6 +11,6 @@ image: assets/posts/4ecd8d40d75a9f723c000137e0f06d49.jpg
 ---
 Nicky just completed a two-week project of developing a 3D-model of Namani and animating it into a short video clip.  Working from photos and some blueprint drawings, he used an Open Source software called '<a href="http://www.blender.org">Blender</a>' to develop and animate the model.
 
-Check out <a href="https://sites.google.com/site/namaniatsea/nicky-s-page/namani-goes-3d">Nicky's page</a> to watch the 30 second long animated video clip.
+Check out [Nicky's page]({% link nicky_page/_posts/2014-02-26-namani-goes-3d.md %}) to watch the 30 second long animated video clip.
 
-<img src="http://dropbox.namaniatsea.org/blog_images/3d_model.jpg" alt="" />
+![3D model of Namani](/assets/posts/3d_model.jpg)

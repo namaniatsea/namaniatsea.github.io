@@ -6,9 +6,8 @@ frontpage: true
 location: Scarborough, Queensland
 position_lat: -27.191666666700
 position_lon: 153.108333333300
+image: assets/posts/brisbane.jpg
 ---
-<img src="http://dropbox.namaniatsea.org/blog_images/brisbane.jpg" alt="" />
-
 Nicky writes about our recent visit to "the big city":
 
 After such a long time in our marina on Namani, it was quite the change to go to this big bustling city. Brisbane is a very enjoyable city. You can go to many interesting museums, cross the river for free, and - important! - you can get delicious ice cream. We really enjoyed our day in Brisbane.
