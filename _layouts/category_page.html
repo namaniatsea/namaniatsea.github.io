@@ -29,7 +29,8 @@ layout: default
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </h3>
-        {{ post.excerpt | strip_html | truncatewords: 25 }}
+        {{ post.excerpt | strip_html | truncatewords: 30 }}
+        <a href="{{ post.url | relative_url }}" class="read-more">Read more &rarr;</a>
       </div>
     </li>
   {% endfor %}
