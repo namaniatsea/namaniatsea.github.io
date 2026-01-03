@@ -10,7 +10,7 @@ image: assets/posts/ccf87b8a45f219f2a07106b5ab982212_scale.jpg
 ---
 Namani is getting a few new coats of antifouling - a good opportunity for another shot in our "On the hard" series.
 
-![On the hard](/assets/posts/on_the_hard_composite.jpg)
+![On the hard]({{ "/assets/posts/on_the_hard_composite.jpg" | relative_url }})
 
 You may ask yourself though what's wrong with the most recent picture? The Namanis wearing their best t-shirts and shorts while doing antifouling?
 

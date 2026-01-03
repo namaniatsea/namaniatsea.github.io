@@ -21,7 +21,7 @@ The next step was preparation for actually taking the fixes on the island. I num
 
 The "South" and "West" tells you that these are negative numbers. "South" latitudes get bigger as you go further down (south) on a map (like negative numbers the vertical axis on a grid) and "West" longitudes get bigger as you go further left (west) on a map (again like negative numbers on the horizontal axis of a grid). One degree of latitude is a long distance (about 100km), much longer than the little island I was going to map. So we realized that we only needed to write down the minutes-part of each fix because the degrees would be the same for all the fixes on the island (always 13 degrees South and 163 degrees West).
 
-![Planning the mapping exercise](/assets/posts/suwarrow_baguette_sketch.jpg)
+![Planning the mapping exercise]({{ "/assets/posts/suwarrow_baguette_sketch.jpg" | relative_url }})
 
 *Table to capture data and planning sketch ("baguette sketch")*
 
@@ -37,13 +37,13 @@ Next I drew a grid at this scale, labeled the latitude and longitude axes, and t
 
 As a last step, I added a title, a legend and a scale to my map of Anchorage Island.
 
-![Anchorage Island Map](/assets/posts/suwarrow_anchorage_island_map.jpg)
+![Anchorage Island Map]({{ "/assets/posts/suwarrow_anchorage_island_map.jpg" | relative_url }})
 
 *Map of Anchorage Island*
 
 To create a map of the anchorage, we followed the same steps as for creating the map of the island. The only changes were that we had to go around by dinghy to get the positions of the different boats in the anchorage and that we also took depth measurements (called "soundings") at each boat with a lead-line. Later, when drawing the map I used different colors to show the depths on the map (going from light-yellow for very shallow to dark-red for very deep). We could have also taken altitude measurements on the island but it is very flat.
 
-![Map of the anchorage with depth soundings](/assets/posts/suwarrow_anchorage_map.jpg)
+![Map of the anchorage with depth soundings]({{ "/assets/posts/suwarrow_anchorage_map.jpg" | relative_url }})
 
 *Map of the anchorage*
 

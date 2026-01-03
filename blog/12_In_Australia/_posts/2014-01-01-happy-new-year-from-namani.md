@@ -13,4 +13,4 @@ We got lucky with a great spot for Sydney's NYE fireworks. We were anchored in R
 
 After having throughly explored Middle Harbour's Sugarloaf Bay over the past week we went "the other way" today and sailed past the Opera House and under the Harbour Bridge into Lane Cove, a quiet little side arm off the Harbour.
 
-![Wishing you a healthy and happy 2014](/assets/posts/Happy_2014_from_Namani.jpg)
+![Wishing you a healthy and happy 2014]({{ "/assets/posts/Happy_2014_from_Namani.jpg" | relative_url }})

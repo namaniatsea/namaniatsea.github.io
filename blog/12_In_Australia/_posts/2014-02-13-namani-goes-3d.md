@@ -13,4 +13,4 @@ Nicky just completed a two-week project of developing a 3D-model of Namani and a
 
 Check out [Nicky's page]({% link nicky_page/_posts/2014-02-26-namani-goes-3d.md %}) to watch the 30 second long animated video clip.
 
-![3D model of Namani](/assets/posts/3d_model.jpg)
+![3D model of Namani]({{ "/assets/posts/3d_model.jpg" | relative_url }})

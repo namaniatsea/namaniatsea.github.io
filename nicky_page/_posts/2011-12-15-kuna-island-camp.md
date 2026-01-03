@@ -11,9 +11,9 @@ summary: >
 ---
 Here in the Lemon Cays (Panama), we found a Kuna island camp. It was nothing like my home in Germany.
 
-![Kuna camp](/assets/posts/Kuna_ReportKuna_island_camp.jpg)
+![Kuna camp]({{ "/assets/posts/Kuna_ReportKuna_island_camp.jpg" | relative_url }})
 
-![Kuna cooking house](/assets/posts/Kuna_ReportKuna_cooking_house.jpg)
+![Kuna cooking house]({{ "/assets/posts/Kuna_ReportKuna_cooking_house.jpg" | relative_url }})
 
 
 
@@ -27,13 +27,13 @@ The purpose of each house is different. One is a living house which was about 3 
 
 They also have a chicken barn that is about 1 x 2 meters.
 
-![Kuna chicken coop](/assets/posts/Kuna_ReportKuna_chicken_coop.jpg)
+![Kuna chicken coop]({{ "/assets/posts/Kuna_ReportKuna_chicken_coop.jpg" | relative_url }})
 
 
 
 Instead of a dinghy, the Kunas have a canoe made of one big piece of wood dug out into a canoe shape. The bow of the canoe is coated with an aluminum looking metal.
 
-![Kuna canoe](/assets/posts/Kuna_ReportCanoe.jpg)
+![Kuna canoe]({{ "/assets/posts/Kuna_ReportCanoe.jpg" | relative_url }})
 
 
 
