@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
+
+<ul class="post-list">
+  {% for post in site.categories[page.target_category] %}
+    <li class="post-item-container">
+      {% if post.image %}
+        <div class="post-thumbnail">
+          <a href="{{ post.url | relative_url }}">
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="object-fit: contain !important;">
+          </a>
+        </div>
+      {% endif %}
+
+      <div class="post-content-right">
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h3>
+        {{ post.excerpt | strip_html | truncatewords: 25 }}
+      </div>
+    </li>
+  {% endfor %}
+</ul>
