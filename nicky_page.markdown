@@ -3,7 +3,6 @@ layout: category_page
 title: Nicky's Page
 nav_title: Nicky's page
 target_category: nicky_page
-permalink: /nickys-page/
 ---
 ![Nicky]({{ "/assets/posts/nicky_pic_2.jpg" | relative_url }})
 
