@@ -36,6 +36,11 @@ plugins:
 show_excerpts: true
 excerpt_separator: "\n\n"
 
+header_pages:
+  - about.markdown
+  - nicky_page.markdown
+  - archive.markdown
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -30,4 +30,58 @@ layout: default
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
+  <!-- code for "previous" and "next" links within respective category -->
+  <hr>
+
+  <div class="post-categories">
+    {% if page.categories.size > 0 %}
+      <!-- take only last category to skip 'blog' super-directory -->
+      {% assign category = page.categories | last %}
+      {% if category != 'nicky_page' %}
+        <p>Posted in:
+          {% assign category_slug = category | slugify %}
+          <a href="{{ '/archive/#' | append: category_slug | relative_url }}">
+          {{ page.categories | last | replace: "_", " " }}
+        </a>
+        </p>
+      {% endif %}
+    {% endif %}
+  </div>
+
+  <div class="post-nav">
+    {% assign current_category = page.categories | last %}
+    {% if current_category %}
+      {% assign category_posts = site.categories[current_category] %}
+
+      {% for post in category_posts %}
+        {% if post.url == page.url %}
+          {% assign prev_index = forloop.index0 | plus: 1 %}
+          {% assign next_index = forloop.index0 | minus: 1 %}
+
+          {% if next_index >= 0 %}
+            {% assign next_post = category_posts[next_index] %}
+          {% endif %}
+
+          {% if prev_index < category_posts.size %}
+            {% assign prev_post = category_posts[prev_index] %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+
+    <div class="post-nav-links" style="display: flex; justify-content: space-between; margin-top: 20px;">
+      <div class="prev-link">
+        {% if prev_post %}
+          <a href="{{ prev_post.url | relative_url }}">&larr; Older in {{ current_category | replace: "_", " " }}:<br><strong>{{ prev_post.title }}</strong></a>
+        {% endif %}
+      </div>
+      <div class="next-link" style="text-align: right;">
+        {% if next_post %}
+          <a href="{{ next_post.url | relative_url }}">Newer in {{ current_category | replace: "_", " " }}: &rarr;<br><strong>{{ next_post.title }}</strong></a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+
 </article>
