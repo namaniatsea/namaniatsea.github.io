@@ -5,10 +5,20 @@
 
 // --- YOUR CUSTOM CSS STARTS HERE ---
 
+// add z-index to keep menu in front of banner
+.site-nav {
+  z-index: 100;
+}
+
+.site-nav .trigger {
+  z-index: 100;
+}
+
 .banner {
   margin-bottom: 2rem;
   width: 100%;
   position: relative;
+  z-index: 1;
 }
 
 .banner-image {
@@ -33,7 +43,7 @@
 @media (max-width: 768px) {
   .banner-text {
     font-size: 1rem;
-    max-width:100%;
+    max-width:70%;
   }
 }
 
