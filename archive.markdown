@@ -7,7 +7,7 @@ permalink: /archive/
 
 <div class="category-links">
   <strong>Jump to:</strong>
-  {% assign sorted_categories = site.categories | sort | reverse %}
+  {% assign sorted_categories = site.categories | sort %}
   {% for category in sorted_categories %}
     {% if category[0] != 'blog' and category[0] != 'nicky_page' %}
       <a href="#{{ category[0] | slugify }}">{{ category[0] | replace: "_", " " }} </a>
@@ -17,7 +17,7 @@ permalink: /archive/
 
 <hr>
 
-{%- for category in sorted_categories -%}
+{%- for category in sorted_categories reversed -%}
 {%- if category[0] != 'blog' and category[0] != 'nicky_page' -%}
 <h2 id="{{ category[0] | slugify }}">{{ category[0] | replace: "_", " " }}</h2>
 <ul class="post-list">
