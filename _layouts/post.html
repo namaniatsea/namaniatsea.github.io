@@ -12,7 +12,15 @@ layout: default
       </time>
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {%- endif -%}
+      {%- if page.location -%}
+        {% if page.position_lat and page.position_lon %}
+          • <span itemprop="location" itemscope itemtype="http://schema.org/Place"><span class="p-author h-card" itemprop="location"><a href="https://www.openstreetmap.org/?mlat={{ page.position_lat }}&mlon={{ page.position_lon }}#map=5/{{ page.position_lat }}/{{ page.position_lon }}">{{ page.location }}</a></span></span>
+        {% else %}
+          • <span itemprop="location" itemscope itemtype="http://schema.org/Place"><span class="p-author h-card" itemprop="location">{{ page.location }}</span></span>
+        {%- endif -%}</p>
       {%- endif -%}</p>
+
   </header>
 
   {%- if page.image -%}
