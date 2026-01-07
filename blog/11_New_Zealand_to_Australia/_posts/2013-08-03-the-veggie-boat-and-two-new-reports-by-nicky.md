@@ -4,7 +4,7 @@ type: namani_blog_post
 author: Cruisingo in Fiji
 layout: post
 frontpage: true
-location: Anchored in the
+location: Anchored in the Blue Lagoon
 position_lat: -16.941666666700
 position_lon: 177.366666666700
 image: assets/posts/5919647d787c9fb4d8d4522dea84edc7_scale.jpg
@@ -13,7 +13,7 @@ When we were in Panama's San Blas Islands, almost two years ago, everyone was ea
 
 ...but today it came - 20 months later in Fiji's Yasawa Islands! A local family does some small scale fruit and vegetable farming on one of the islands in the lagoon and they stopped by this afternoon, offering papayas, cabbage and other goodies. We love Fiji!
 
-On a separate note: Nicky has completed two new school reports: One about our visit to Taveuni Island in the NE corner of Fiji at the end of June. You can find it <a href="https://sites.google.com/site/namaniatsea/nicky-s-page/taveuni-report">here</a>. The other is about how we generate and use electrical power on Namani. That on can be found <a href="https://sites.google.com/site/namaniatsea/nicky-s-page/power-on-namani">here</a>. 
+On a separate note: Nicky has completed two new school reports: One about our visit to Taveuni Island in the NE corner of Fiji at the end of June. You can find it [here]({% link nicky_page/_posts/2013-08-02-taveuni-time-travelin.md %}). The other is about how we generate and use electrical power on Namani. That on can be found [here]({% link nicky_page/_posts/2013-08-15-power-on-namani.md %}).
 
 Nicky did a cool experiment with the Taveuni report: In his final version he highlighted only the most descriptive words and deleted everything else. What was left over - with some minimal editing - was this poem about Taveuni:
 
