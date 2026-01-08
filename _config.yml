@@ -38,8 +38,9 @@ excerpt_separator: "\n\n"
 
 header_pages:
   - about.markdown
-  - nicky_page.markdown
   - archive.markdown
+  - photos.markdown
+  - nicky_page.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Blog Archive by Category"
-nav_title: "Archive"
+nav_title: "Blog"
 permalink: /archive/
 ---
 
