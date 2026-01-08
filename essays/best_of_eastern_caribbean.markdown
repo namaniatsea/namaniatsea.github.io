@@ -3,6 +3,8 @@ layout: page
 title: Namani's Eastern Caribbean "Best-of List" (in no particular order)
 ---
 
+*2008-04-16, [en route from from Anguilla to Culebra](https://www.openstreetmap.org/?mlat=18.2166667&mlon=-63.9666667#map=5/18.22/-63.97)*
+
 #### Best Anchorages
 
 - Admiralty Bay, Bequia -- nice atmosphere, very „cruisy"

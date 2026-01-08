@@ -5,6 +5,8 @@ location: Wolfratshausen, Germany - September 2008
 author: Nana
 ---
 
+*September 2008, [Wolfratshausen](https://www.openstreetmap.org/?mlat=47.913333&mlon=11.427778#map=5/47.913333/11.427778)*
+
 Nicky started the trip as an almost 4 year old (3 years plus 9 months)
 and ended it as an almost 5 year old. I am not sure he will keep many
 specific memories of our trip throughout his life, but I am hopeful that

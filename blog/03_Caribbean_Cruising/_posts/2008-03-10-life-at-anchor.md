@@ -4,7 +4,7 @@ type: namani_blog_post
 author: Markus
 layout: post
 frontpage: true
-location: Posted from Portsmouth, Dominica (written in Anse d'Arlet, Martnique, 07.03.2008)
+location: "Posted from Portsmouth, Dominica (written in Anse d'Arlet, Martnique, 07.03.2008)"
 position_lat: 16.983333333300
 position_lon: -61.715000000000
 image: assets/posts/north_from_st._lucia_013_scale.jpg

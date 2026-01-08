@@ -5,6 +5,8 @@ location: Anse d\'Arlet, Martinuque - 2008-03-07
 author: Markus
 ---
 
+*March 2008, [Anse d\'Arlet](https://www.openstreetmap.org/?mlat=14.4906&mlon=-61.0806#map=5/14.4906/-61.0806)*
+
 *Note: the below was written towards the end of first "seabbatical" 2007/2008 reflecting our experiences from the Mediterranean abd the Eastern Caribbean. We'd probably adjust and amend some of this based on our experience in the Pacific 2012-20214 - when we get to it... ;-)*
 
 #### ANCHOR EQUIPMENT
