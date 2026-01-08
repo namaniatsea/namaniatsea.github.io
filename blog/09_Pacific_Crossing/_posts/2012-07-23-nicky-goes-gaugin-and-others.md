@@ -7,4 +7,4 @@ position_lat: -17.583333333300
 position_lon: -149.600000000000
 image: assets/posts/nicky_post_impressionist_art_800x600_scale.jpg
 ---
-A new school project by Nicky, taking a shot at emulating the painting style of four post impressionists. Click <a href="https://sites.google.com/site/namaniatsea/nicky-s-page/post-impressionists-report">here</a> for his report.
+A new school project by Nicky, taking a shot at emulating the painting style of four post impressionists. Click [here]({% link nicky_page/_posts/2012-07-20-dots-stripes-swirls-i-paint-like-the-post-impressionists.md %}) for his report.
