@@ -202,3 +202,25 @@
   flex: 1;
   max-width: 48%; /* Prevents long titles from overlapping */
 }
+
+/* Style for the category headings container */
+.category-heading {
+  display: flex;
+  align-items: center;
+  gap: 15px; /* Space between the text and the arrow */
+}
+
+/* Style for the upward arrow link */
+.back-to-top {
+  font-size: 0.7em;         /* Make the arrow smaller than the heading */
+  text-decoration: none;
+  color: #ccc;             /* Light grey by default */
+  vertical-align: middle;
+  transition: color 0.2s ease;
+  cursor: pointer;
+}
+
+.back-to-top:hover {
+  color: #2a7ae2;          /* Change to theme link color on hover */
+  text-decoration: none;
+}
