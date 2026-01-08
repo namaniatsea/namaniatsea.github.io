@@ -19,7 +19,7 @@ permalink: /archive/
 
 {%- for category in sorted_categories reversed -%}
 {%- if category[0] != 'blog' and category[0] != 'nicky_page' -%}
-<h2 id="{{ category[0] | slugify }}">{{ category[0] | replace: "_", " " }}</h2>
+<h2 id="{{ category[0] | slugify }}">{{ category[0] | replace: "_", " " }} <a href="#top" class="back-to-top" title="Back to top">&uarr;</a></h2>
 <ul class="post-list">
     {% for post in category[1] %}
     <li style="margin-bottom: 10px; list-style: none;">
