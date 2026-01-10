@@ -4,7 +4,7 @@ type: namani_blog_post
 author: Cruising in Fiji
 layout: post
 frontpage: true
-location: Anchored in the
+location: Anchored in the Blue Lagoon
 position_lat: -16.941666666700
 position_lon: 177.366666666700
 image: assets/posts/4774fb1d06c307ff8255e7d69546955d_scale.jpg
