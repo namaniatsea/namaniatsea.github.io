@@ -17,7 +17,7 @@ We had the photo albums for our first Seabbatical (Mediterranean, Atlantic Cross
 - [Heiva Time on Tahiti](https://photos.app.goo.gl/vrFubqCzVdg7cRnA6)
 - [Society Islands](https://photos.app.goo.gl/2RAW3kZC57AgmQ8n6)
 - [Suwarrow](https://photos.app.goo.gl/2RAW3kZC57AgmQ8n6)
-- [Niue](https://photos.app.goo.gl/1RTxvRGpYSS5FoPN7)
+- [Niue](https://photos.app.goo.gl/KurDCei62nz87myy7)
 - [Tonga](https://photos.app.goo.gl/1RTxvRGpYSS5FoPN7)
 - [Passage to New Zealand](https://photos.app.goo.gl/v75d2Qc6T9AhM3oW9)
 - [In New Zealand](https://photos.app.goo.gl/884dXrsAn4vuHm2WA)
